@@ -1,0 +1,3061 @@
+
+
+[Pages H1001-H1017]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+
+
+
+                 FIGHTING HUNGER INCENTIVE ACT OF 2015
+
+  Mr. RYAN of Wisconsin. Mr. Speaker, pursuant to House Resolution 101, 
+I
+
+[[Page H1002]]
+
+call up the bill (H.R. 644) to amend the Internal Revenue Code of 1986 
+to permanently extend and expand the charitable deduction for 
+contributions of food inventory, and ask for its immediate 
+consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Pursuant to House Resolution 101, in lieu of 
+the amendment in the nature of a substitute recommended by the 
+Committee on Ways and Means printed in the bill, an amendment in the 
+nature of a substitute consisting of the text of Rules Committee Print 
+114-5 is adopted, and the bill, as amended, is considered read.
+  The text of the bill, as amended, is as follows:
+
+                                H.R. 644
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``America Gives More Act of 
+     2015''.
+
+     SEC. 2. EXTENSION AND EXPANSION OF CHARITABLE DEDUCTION FOR 
+                   CONTRIBUTIONS OF FOOD INVENTORY.
+
+       (a) Permanent Extension.--Section 170(e)(3)(C) of the 
+     Internal Revenue Code of 1986 is amended by striking clause 
+     (iv).
+       (b) Increase in Limitation.--Section 170(e)(3)(C) of such 
+     Code, as amended by subsection (a), is amended by striking 
+     clause (ii), by redesignating clause (iii) as clause (iv), 
+     and by inserting after clause (i) the following new clauses:
+       ``(ii) Limitation.--The aggregate amount of such 
+     contributions for any taxable year which may be taken into 
+     account under this section shall not exceed--
+
+       ``(I) in the case of any taxpayer other than a C 
+     corporation, 15 percent of the taxpayer's aggregate net 
+     income for such taxable year from all trades or businesses 
+     from which such contributions were made for such year, 
+     computed without regard to this section, and
+       ``(II) in the case of a C corporation, 15 percent of 
+     taxable income (as defined in subsection (b)(2)(D)).
+
+       ``(iii) Rules related to limitation.--
+
+       ``(I) Carryover.--If such aggregate amount exceeds the 
+     limitation imposed under clause (ii), such excess shall be 
+     treated (in a manner consistent with the rules of subsection 
+     (d)) as a charitable contribution described in clause (i) in 
+     each of the 5 succeeding taxable years in order of time.
+       ``(II) Coordination with overall corporate limitation.--In 
+     the case of any charitable contribution allowable under 
+     clause (ii)(II), subsection (b)(2)(A) shall not apply to such 
+     contribution, but the limitation imposed by such subsection 
+     shall be reduced (but not below zero) by the aggregate amount 
+     of such contributions. For purposes of subsection (b)(2)(B), 
+     such contributions shall be treated as allowable under 
+     subsection (b)(2)(A).''.
+
+       (c) Determination of Basis for Certain Taxpayers.--Section 
+     170(e)(3)(C) of such Code, as amended by subsections (a) and 
+     (b), is amended by adding at the end the following new 
+     clause:
+       ``(v) Determination of basis for certain taxpayers.--If a 
+     taxpayer--
+
+       ``(I) does not account for inventories under section 471, 
+     and
+       ``(II) is not required to capitalize indirect costs under 
+     section 263A,
+
+     the taxpayer may elect, solely for purposes of subparagraph 
+     (B), to treat the basis of any apparently wholesome food as 
+     being equal to 25 percent of the fair market value of such 
+     food.''.
+       (d) Determination of Fair Market Value.--Section 
+     170(e)(3)(C) of such Code, as amended by subsections (a), 
+     (b), and (c), is amended by adding at the end the following 
+     new clause:
+       ``(vi) Determination of fair market value.--In the case of 
+     any such contribution of apparently wholesome food which 
+     cannot or will not be sold solely by reason of internal 
+     standards of the taxpayer, lack of market, or similar 
+     circumstances, or by reason of being produced by the taxpayer 
+     exclusively for the purposes of transferring the food to an 
+     organization described in subparagraph (A), the fair market 
+     value of such contribution shall be determined--
+
+       ``(I) without regard to such internal standards, such lack 
+     of market, such circumstances, or such exclusive purpose, and
+       ``(II) by taking into account the price at which the same 
+     or substantially the same food items (as to both type and 
+     quality) are sold by the taxpayer at the time of the 
+     contribution (or, if not so sold at such time, in the recent 
+     past).''.
+
+       (e) Effective Date.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall apply 
+     to contributions made after the date of the enactment of this 
+     Act, in taxable years ending after such date.
+       (2) Limitation; applicability to c corporations.--The 
+     amendments made by subsection (b) shall apply to 
+     contributions made in taxable years ending after the date of 
+     the enactment of this Act.
+
+     SEC. 3. RULE ALLOWING CERTAIN TAX-FREE DISTRIBUTIONS FROM 
+                   INDIVIDUAL RETIREMENT ACCOUNTS FOR CHARITABLE 
+                   PURPOSES MADE PERMANENT.
+
+       (a) In General.--Section 408(d)(8) of the Internal Revenue 
+     Code of 1986 is amended by striking subparagraph (F).
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to distributions made in taxable years beginning 
+     after December 31, 2014.
+
+     SEC. 4. SPECIAL RULE FOR QUALIFIED CONSERVATION CONTRIBUTIONS 
+                   MADE PERMANENT.
+
+       (a) In General.--
+       (1) Individuals.--Subparagraph (E) of section 170(b)(1) of 
+     the Internal Revenue Code of 1986 (relating to contributions 
+     of qualified conservation contributions) is amended by 
+     striking clause (vi).
+       (2) Corporations.--Subparagraph (B) of section 170(b)(2) of 
+     such Code (relating to qualified conservation contributions) 
+     is amended by striking clause (iii).
+       (b) Contributions of Capital Gain Real Property Made for 
+     Conservation Purposes by Native Corporations.--
+       (1) In general.--Section 170(b)(2) of such Code is amended 
+     by redesignating subparagraph (C) as subparagraph (D), and by 
+     inserting after subparagraph (B) the following new 
+     subparagraph:
+       ``(C) Qualified conservation contributions by certain 
+     native corporations.--
+       ``(i) In general.--Any qualified conservation contribution 
+     (as defined in subsection (h)(1)) which--
+
+       ``(I) is made by a Native Corporation, and
+       ``(II) is a contribution of property which was land 
+     conveyed under the Alaska Native Claims Settlement Act,
+
+     shall be allowed to the extent that the aggregate amount of 
+     such contributions does not exceed the excess of the 
+     taxpayer's taxable income over the amount of charitable 
+     contributions allowable under subparagraph (A).
+       ``(ii) Carryover.--If the aggregate amount of contributions 
+     described in clause (i) exceeds the limitation of clause (i), 
+     such excess shall be treated (in a manner consistent with the 
+     rules of subsection (d)(2)) as a charitable contribution to 
+     which clause (i) applies in each of the 15 succeeding taxable 
+     years in order of time.
+       ``(iii) Native corporation.--For purposes of this 
+     subparagraph, the term `Native Corporation' has the meaning 
+     given such term by section 3(m) of the Alaska Native Claims 
+     Settlement Act.''.
+       (2) Conforming amendments.--
+       (A) Section 170(b)(2)(A) of such Code is amended by 
+     striking ``subparagraph (B) applies'' and inserting 
+     ``subparagraph (B) or (C) applies''.
+       (B) Section 170(b)(2)(B)(ii) of such Code is amended by 
+     striking ``15 succeeding years'' and inserting ``15 
+     succeeding taxable years''.
+       (3) Valid existing rights preserved.--Nothing in this 
+     subsection (or any amendment made by this subsection) shall 
+     be construed to modify the existing property rights validly 
+     conveyed to Native Corporations (within the meaning of 
+     section 3(m) of the Alaska Native Claims Settlement Act) 
+     under such Act.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to contributions made in taxable years beginning 
+     after December 31, 2014.
+
+     SEC. 5. MODIFICATION OF THE TAX RATE FOR THE EXCISE TAX ON 
+                   INVESTMENT INCOME OF PRIVATE FOUNDATIONS.
+
+       (a) In General.--Section 4940(a) of the Internal Revenue 
+     Code of 1986 is amended by striking ``2 percent'' and 
+     inserting ``1 percent''.
+       (b) Elimination of Reduced Tax Where Foundation Meets 
+     Certain Distribution Requirements.--Section 4940 of such Code 
+     is amended by striking subsection (e).
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 6. BUDGETARY EFFECTS.
+
+       The budgetary effects of this Act shall not be entered on 
+     either PAYGO scorecard maintained pursuant to section 4(d) of 
+     the Statutory Pay-As-You-Go Act of 2010.
+
+  The SPEAKER pro tempore. The bill shall be debatable for 90 minutes, 
+equally divided and controlled by the chair and ranking minority member 
+of the Committee on Ways and Means.
+  The gentleman from Wisconsin (Mr. Ryan) and the gentleman from 
+Michigan (Mr. Levin) each will control 45 minutes.
+  The Chair recognizes the gentleman from Wisconsin.
+
+
+                             General Leave
+
+  Mr. RYAN of Wisconsin. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days in which to revise and extend their 
+remarks on H.R. 644, the Fighting Hunger Incentive Act of 2015.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Wisconsin?
+  There was no objection.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Here is what we are trying to accomplish with this legislation today: 
+we are trying to provide some more certainty.
+  Small businesses, they have to be able to plan for the future. 
+Charities who are serving those in need, they also have to plan for the 
+future. Families need to know whether there is going to be help for 
+them at the local food bank. A lot of them look to the Tax Code, 
+ironically, when planning for the future. They need a tax code that is 
+easy to understand. But that is not the Tax Code that we have today. 
+Whether we make the Tax Code more complicated--well, if we do that, we 
+are
+
+[[Page H1003]]
+
+making their lives more unpredictable. That is a disservice to the 
+people we are trying to serve.
+  What would really help would be to fix our broken tax system. And 
+ultimately, our goal is to get to a tax code that is simpler, that is 
+flatter, that is fairer for everybody. But we have still got work to do 
+on that front, and life doesn't wait for Washington. In fact, 
+Washington has a really bad habit of letting really important 
+provisions expire, only to renew them retroactively. This has got to 
+stop, and we are trying to fix this.
+  So this bill would make several of these provisions permanent. Number 
+one, it would encourage charitable giving. Number two, it would help 
+people contribute to charities from their IRAs, Individual Retirement 
+Accounts, tax-free. Number three, it would let people deduct food bank 
+donations from their taxes, and it would make other changes that make 
+giving less expensive.
+  The quick to the short, Mr. Speaker, is these are provisions in the 
+Code that we know--because it has been demonstrated--make a big 
+difference.
+
+                              {time}  1445
+
+  It is so important that we have a vibrant civil society, that space 
+that stands between ourselves and our government, which is where we 
+live and we lead our lives, that it is vibrant and that that space is 
+there to help people in need. Private charity is the glue that keeps 
+our communities together.
+  In so many instances, private charities thrive on the good will and 
+the donations and the generosity of other people, of businesses, and 
+those businesses are affected by the Tax Code. What we have to do is 
+provide certainty to those businesses who want to be generous and to 
+those people who want to be generous, but to these charities who need 
+some predictability, so they can plan their charitable endeavors.
+  Mr. Speaker, knowing that this is a bipartisan notion, knowing that 
+the good work that is done by these groups is absolutely essential to 
+healing people in our communities, to getting people on to lives of 
+self-sufficiency, getting them to where they want to be in life, the 
+least we can do is provide some certainty so more of this can happen.
+  Last year, Mr. Speaker, we waited until the end of the year to extend 
+these provisions retroactive to the first of the year but only for that 
+year--oh, and by the way, last year, we waited until December 11 to 
+tell all of these charities, these donors to charities, Okay. Now, here 
+is the benefit for the past year, but guess what, it already expired 
+the beginning of this year.
+  I know that it sounds kind of complicated. The point is this is no 
+way to run a railroad. We need to provide families with certainty. We 
+need to provide charities with certainty. That is what this bill does.
+  The part that we are going to have a debate here, Mr. Speaker, is 
+nobody seems to have a problem when we do this 1 year at a time. Nobody 
+seems to have a problem suggesting that we ``pay for it'' which is, in 
+my opinion, another way of saying raise taxes on other people just to 
+keep them the same when we do it 1 year at a time, but when we say, 
+Let's make this thing permanent, this thing that we do once every year 
+that everybody is fine with, instead of doing it once every year and 
+sometimes retroactively, let's just do it permanently so people in 
+families and businesses can plan, then all of a sudden, there is a big 
+problem.
+  I personally don't understand that. It makes no sense because who we 
+are serving is not Washington, who we are serving are the people who 
+are trying to survive, are the people who are the beneficiaries of 
+these charities or the charities who are doing the good works. That is 
+why we are bringing this legislation to the floor. I am very excited to 
+be a part of this.
+  Mr. Speaker, I want to thank all the Members on both sides of the 
+aisle for their hard work in this area, and with that, I reserve the 
+balance of my time.
+  Mr. LEVIN. Mr. Speaker, I yield myself such time as I shall consume.
+  Mr. Speaker, the issues here are not the merits. That isn't the 
+issue. The issue is whether we proceed this way. Proceeding this way is 
+the opposite of bipartisanship--its very opposite. The chairman has 
+said he wants to find common ground on common aspects.
+  What this does is essentially pull terrain out from under common 
+ground. It is the opposite of a search for common ground. The President 
+has said he will veto. We have the messages right here once again. It 
+is the opposite of bipartisanship.
+  It is also, if I might say, the opposite of certainty for taxpayers. 
+We went through this last year. These bills will not become law, 
+period. If they were to pass the House and the Senate, they would be 
+vetoed. That happened last year. It did not become law. It will not 
+become law this year.
+  These provisions will be continued if we don't pass tax reform. Mr. 
+Chairman, you control the schedule. If you don't want to wait until 
+December, do it earlier if tax reform doesn't become a reality.
+  That is another problem with this bill and these bills. They are the 
+opposite of tax reform. You don't do tax reform in a piecemeal fashion. 
+Dave Camp, to his credit, understood that, so he came up with a 
+comprehensive package.
+  In the Senate, Republicans understand this. Senator Blunt said last 
+week:
+
+       As long as the Finance Committee feels there is an 
+     opportunity for overall tax reform, I think you are going to 
+     not see a quick response to individual bills coming over.
+
+  What could be clearer? What could be clearer?
+  This is also the opposite of fiscal responsibility.
+  You have here three opposites--really four, and four opposites make a 
+big minus.
+  Fourteen billion is the cost of this bill and 79 billion, the next 
+bill--that is 93. We marked up just a few hours ago in Ways and Means 
+two more bills, one 42 billion and another one 177 billion--that is 
+219. And you add up those, over $310 billion in terms of adding to the 
+deficit.
+  There has been some talk about helping the middle class. Action is 
+the opposite of platitudes. Where is the action on the child tax 
+credit? Where is the action on the EITC also affecting working and 
+middle class families? Where is the action on the work opportunity tax 
+credit? Where is the action on the minimum wage? The answer is we are 
+now several months into this session.
+  A reporter said to me, What is bill number one?
+  I said, I have no idea.
+  How about other bills that really address the needs of the middle 
+class of this country?
+  As expressed in Ways and Means, so many of us are very opposed to 
+what is really a counterproductive path here. The merits, again, are 
+not the basic issue.
+  The basic issue, do we want to fly in the face of bipartisanship, fly 
+in the face of certainty for taxpayers, fly in the face of tax reform, 
+and fly in the face of fiscal responsibility? We should not be doing 
+that. We should not be doing that.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. RYAN of Wisconsin. At this time, I would like to yield 2 minutes 
+to the gentleman from Pennsylvania (Mr. Kelly), the distinguished 
+member from the Ways and Means Committee.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I thank the chairman.
+  Mr. Speaker, I rise today to speak very well about H.R. 641, the 
+Conservation Easement Incentive legislation. I get confused sometimes 
+by the discussion on the floor.
+  If I understand it, if you do it for a year or 2 years and you don't 
+pay for it, that is good policy, that is good legislation, that is good 
+for America, but if you go beyond that time, it is not good.
+  This is a piece of legislation that came up in 2006. In fact, my 
+colleague Mr. Thompson brought it up. He and Chairman Camp did it. He 
+and Mr. Gerlach, who retired last year, did it. This just makes good 
+sense.
+  I can tell you something about this. It is not only bipartisan, it is 
+bicameral. It is in the President's budget. If you are talking about 
+trying to work together to get somewhere, isn't this it? Isn't this it?
+  Sometimes, we always try to bend the rules for something else, but 
+this is about conservation. This is about allowing a landowner to set 
+property aside. So I don't care if you are a farmer or a rancher, I 
+don't care if you are a hunter or a hiker, I don't care if you
+
+[[Page H1004]]
+
+like to look at birds or hunt birds, there are over 65 associations 
+around the country that say, Please do more of this, set this ground 
+apart.
+  Now, if you are a farmer or a rancher, you can still work that 
+ground. All you are saying is this is a set-aside, this ground can't be 
+developed, we can't lose this ground.
+  This is so basic who we are as Americans. We are saying, Let's 
+preserve what we have. Let's just keep what we have. Let's make sure 
+that our kids can hunt, hike, and swim. Let's make sure that they can 
+fish. Let's make sure they can do all those wonderful things that this 
+land affords us to do.
+  Then it becomes, Gosh, this is about politics. It is not about 
+policy. It is good policy. It has never been paid for. I just don't 
+understand why, all of a sudden--now--why is it paid for?
+  I am only starting my third session here; but, my God, you would 
+never do this back home. I wouldn't do this. I am an automobile dealer.
+  I couldn't do this to a customer and say, Yeah, it is okay now, but 
+do you know what, later on, you are going to have to pay me for it.
+  And they say, Wait a minute, I thought you gave it to me.
+  No, no. We are going to take it back.
+  Mr. Speaker, there are millions of acres that have been set aside 
+now. Why not give some permanency to this? We talk about tax reform. 
+Let's give it some permanency. Let's do what makes sense for all of 
+America.
+  Let's talk about preserving America's ground and making sure it 
+doesn't go under development. People can still farm it, and they can 
+still ranch on it. It just makes good sense.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. RYAN of Wisconsin. I yield the gentleman an additional 30 
+seconds.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I am just asking our friends 
+on the other side, let's think about what is good for the people we 
+represent and not what is just good for the moment.
+  We have always done this in the past. It has only become a problem 
+now because it is not a 1-year extender or a 2-year extender. Now, all 
+of a sudden, we say, Well, let's just let people know this is the way 
+it is always going to be from now until all time.
+  But, no, that is a bad idea to do that. You don't want to give 
+anybody certainty. You don't want to give anybody permanency.
+  There is no time in my life that I would ever say to my friends, my 
+family, or anybody I represent, This is just a temporary thing for me. 
+Tomorrow, I may have a change of heart.
+  I just ask my friends, H.R. 641--Mr. Thompson is on this piece. Let's 
+make sure that we move forward for America. Let's make sure that we set 
+ground aside for the future.
+  Mr. LEVIN. It is now my pleasure to yield 4 minutes to the gentleman 
+from Maryland (Mr. Hoyer), our distinguished whip, who is going to 
+supply, if the gentleman will wait here, for a very clear answer.
+  Mr. HOYER. The ranking member didn't write my speech, so I am not 
+sure what my answer to the distinguished gentleman's comments is, but I 
+will say this to my friend, I am not for 1 year. I may vote for 1 year, 
+but that is not what we ought to do. It ought to be paid for if it is 1 
+year, 2 years, permanent. There is no free lunch.
+  You are in the automobile business. People come into your automobile 
+store, and they would say, I would like to have that car for $10,000.
+  And you say, Now, look, I paid $20,000 for that car. I can't sell it 
+to you for $10,000.
+  There is no free lunch. Unpaid tax cuts are a free lunch, a pretense 
+that somehow it is just free, but I will tell my friend it is not free.
+  The chairman, who was the chairman of the Budget Committee, offered a 
+budget which cuts food stamps $125 billion. This bill is called the 
+Fighting Hunger Incentive Act--$125 billion cut in food stamps. I tell 
+you my friend voted for a $40 billion cut in food stamps in the farm 
+bill.
+  I am not for free lunches. I am for a lot of these tax cuts, but I am 
+not for taking it out of the mouths of children, I am not for taking it 
+out of NIH, and I am not for taking it out of our national security. We 
+have got to pay for what we buy, and I vote that way.
+  The chairman and I were one of 18 people one time that voted against 
+a very popular bill that had to do with Social Security. We thought it 
+was not paid for and not fiscally responsible, and he and I were one of 
+18 people in this House that voted against it.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, will the gentleman yield?
+  Mr. HOYER. I don't have much time, but maybe we can get some more. I 
+yield to the gentleman.
+  Mr. KELLY of Pennsylvania. I could not be in better or more agreement 
+with you. I have watched for 6 years--an opportunity in a country with 
+the greatest assets in the world--watched our working class, our 
+middle-income people, our lower-income people suffer the greatest harm 
+they have ever had in their life.
+  If this is truly about getting America back to work, putting food in 
+the mouths of our children and being able to do all these things, the 
+only one way to do that is to have a dynamic and robust economy. That 
+is what I think we need to do.
+  I have watched it for 6 years. It is appalling what we have allowed 
+to have happen in a country that has been blessed with so many things. 
+It is just bad policy. We can't get beyond the politics. That is what 
+is hurting our people.
+  It is not the fact that this is not being paid for because we are not 
+manipulating it for a year or 2. The whole purpose of why we should be 
+here is let's raise all America. Let's get everybody looking up, being 
+able to feed everybody. We shouldn't have to have programs for people 
+who can't take care of themselves because, by their very nature, they 
+can do that. We have all of that potential.
+  Mr. HOYER. Reclaiming my time, Mr. Speaker, I used to have a magic 1 
+minute. I don't have that now. I would be glad to participate in 
+debate. We have had bad policy, I tell my friend.
+  Mr. KELLY of Pennsylvania. I agree.
+  Mr. HOYER. Terrible policy.
+  I don't know about you, but I am for Simpson-Bowles. The problem with 
+Simpson-Bowles for some people is it paid for what it did, just like 
+the Camp bill. The Camp bill made tough choices, and it was a zero-sum 
+game in the sense that it cut taxes and it paid for them--a zero-sum 
+game--just like you had to run your business because, if you didn't run 
+your business that way, you would have gone bankrupt.
+  Now, I fought for that for a very long period of time and voted that 
+way, as I say, one of 18 with my friend from Wisconsin, but I tell my 
+friend, yes, we are following bad policy.
+  This bill, you can argue for the merits. I get that. The next bill, 
+you can argue for the merits, and the bill after that and the bill 
+after that and the bill after that, and you have then caused $600 
+billion in deficit spending that your kids and my kids will have to pay 
+for because we are too old to be around long enough to pay for it.
+
+                              {time}  1500
+
+  So I rise against this bill not because I am against fighting hunger. 
+Everybody ought to be against fighting hunger.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield an additional 2 minutes to the gentleman from 
+Maryland.
+  Mr. HOYER. But when you talk about fighting hunger, don't cut food 
+stamps $40 billion. Don't suggest the way we pay for this tax cut is to 
+cut $125 billion from food stamps over the next 10 years, as the 
+chairman did.
+  I disagree with that policy, and I respect the chairman.
+  Mr. KELLY of Pennsylvania. Will the gentleman yield?
+  Mr. HOYER. No, I can't yield any more because I am running out of 
+time.
+  Mr. Speaker, this is one of two bills that we are considering on the 
+floor this week to make tax cuts permanent, and it is unfortunate that 
+neither of these bills is paid for 1 year or permanently. Together, 
+they would increase the deficit by $93 billion. Nobody is suggesting we 
+are going to pay for that, so our kids will pay for it.
+  Democrats support extending many of the preferences we are talking 
+about, but we are also deeply concerned about America's fiscal future. 
+And I voted that way, not just talked that way.
+  I hear a lot of talk from my friends in the majority about the debt, 
+but
+
+[[Page H1005]]
+
+that talk too often fails to translate into fiscally responsible 
+policy. It didn't in 1981 when we cut taxes deeply and increased the 
+national debt from the time I came in under Reagan 189 percent, more 
+than any President that has been President during my term in the last 
+34 years.
+  We have seen these two tax bills before--when Republicans brought 
+them to the floor last Congress, along with several other permanent tax 
+cuts, which, together, would have ballooned the deficit by more than 
+$600 billion. That is twice what we will spend on medical research at 
+NIH and 10 times what it would cost to expand community college access.
+  I also hear a lot of my friends on the other side of the aisle talk 
+about a broken tax system. I tell my friend, that system is going to 
+remain broken. That system is going to remain broken unless we do what 
+Camp did.
+  Did I agree with everything that Camp did? No. But I respected him 
+for putting together a package of tax reform that gives what Mr. Ryan 
+says we need, and I agree with him--certainty. People need to know. 
+These ought to all be permanent. The R&D tax credit ought to be 
+permanent so people can plan.
+  The SPEAKER pro tempore. The time of the gentleman has again expired.
+  Mr. LEVIN. I yield an additional 1 minute to the gentleman.
+  Mr. HOYER. America's businesses and families deserve the certainty 
+that comes from tax reform, not partisan piecemeal reform bills that 
+undermine--undermine--tax reform. That is what Roy Blunt was talking 
+about.
+  Roy Blunt has already been quoted, so I won't repeat the quote. But 
+what he said is, as long as the Finance Committee feels there is an 
+opportunity for overall tax reform, I think you are not going to see a 
+quick response to individual bills coming over.
+  That is why this is bad policy; because you are not going to get from 
+here to there unless you have a comprehensive bill that makes the tough 
+tradeoffs and summons the courage of this Congress to pass meaningful, 
+permanent, paid-for tax certainty for our citizens.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself 1 minute to say I 
+truly, sincerely want to say this.
+  I very much respect the majority whip. We have had a great 
+relationship over the years. I very much respect the gentleman. He is a 
+class act legislator. I look forward to his support of our coming work 
+from the committee if he wants to be part of tax reform.
+  Mr. HOYER. Will the gentleman yield?
+  Mr. RYAN of Wisconsin. I yield to the gentleman.
+  That was the longest magic minute I think I have seen.
+  Mr. HOYER. No, I have done longer when I had the minute, believe me.
+  I want to tell the gentleman, in all sincerity, I look forward to 
+being able to support a bill that is comprehensive, paid for, and gives 
+our citizens and individual taxpayers the certainty they need to have 
+the confidence they need to grow our economy.
+  I thank the gentleman for yielding.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I just want to keep on my time.
+  Let me ask about the time allotment, by the way. Who is where.
+  The SPEAKER pro tempore. The gentleman from Wisconsin has 37 minutes 
+remaining. The gentleman from Michigan has 33\1/2\ minutes remaining.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself 2 minutes.
+  Mr. Speaker, normally, I don't try to get into these baseline issues 
+because it is kind of arcane budget issues. But here is where I think 
+there is an inconsistency or a problem, and so people listening to this 
+debate, there is a lot of confusion here.
+  If we were talking about a spending bill--let's just say the highway 
+trust fund or TANF, Temporary Assistance for Needy Families--and it 
+expired and we said, well, let's just extend this bill, this law, and 
+the spending in it at its current levels for another 5, 6 years, we 
+wouldn't have to ``pay'' for that. It wouldn't cost anything. It is 
+already in the baseline. So if we were basically talking about a 
+spending bill here, none of these kinds of criticisms would hold merit, 
+would be usable.
+  So here we are talking about taxes, and so I think people are getting 
+the impression from this debate that we are talking about a tax cut 
+here, that we are talking about doing something to businesses or 
+individuals and cutting their taxes. These are laws that are already on 
+the books. Charities, that is what we are talking about here in this 
+particular bill. All we are saying is don't raise their taxes. That is 
+what we are saying here.
+  The choice before us is fairly obvious. Either we raise taxes on 
+small businesses and individuals with respect to charitable giving, or 
+we keep them where they are today and just go raise taxes on somebody 
+else, or we acknowledge reality for what it is: they have these 
+benefits, they have had these benefits, we all agree they ought to keep 
+these benefits, and every year we renew these benefits.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. RYAN of Wisconsin. I yield myself an additional 30 seconds.
+  But we do it in such an awful way. We wait until the end of the year, 
+then we do it retroactively or we do it 1 year. Nobody knows what is 
+going on. Nobody can predict the Tax Code. Nobody can make decisions. 
+As a result, these charities, these families, these small businesses 
+suffer. That is what we are trying to fix here.
+  With that, I yield 3 minutes to the gentleman from Illinois (Mr. 
+Schock), a distinguished member of the Ways and Means Committee.
+
+  Mr. SCHOCK. Mr. Speaker, I thank the chairman.
+  I would just say so much has been said I am not sure I will need 3 
+minutes.
+  Obviously, I am here to speak in support of a measure that I 
+introduced in this body last July that passed by a 2 to 1 majority. 
+That means nearly every Republican and tens and scores of Democrats, a 
+whole host of Democrats that passed by a 2 to 1 majority, voted for 
+almost identical language contained in this bill.
+  Now, the negotiation in the agreement between the House and the 
+Senate to make this more permanent fell apart, and so we did what we 
+have always done, which is extend it for another year.
+  Just a few months ago--just a few months ago--Republicans and 
+Democrats came together in this body to vote on identical legislation 
+to extend it a year at a time. In fact, this piece of legislation has 
+been extended four times since 2006 under the same proposal that we are 
+submitting here, just not a year at a time but, rather, permanent, the 
+same pay-fors or lack thereof, written almost identically.
+  So what is at stake? What is at stake is how much the people of our 
+respective districts are going to benefit and whether they will 
+benefit.
+  Back in my district, the head of the Galesburg Community Foundation 
+says that, when he is meeting with donors, if they can give to their 
+IRA, as this bill will allow, they give, on average, four times the 
+amount of goods and services that they would otherwise give without the 
+IRA donation provision--four times.
+  This isn't about the donor; it is about the recipient. And so I would 
+just simply ask: Why don't we give the certainty not to the donor but, 
+rather, give the certainty to the recipient, whether it be food and 
+shelter, whether it be education benefits here in our country and 
+around the world, a benefit from this provision, give them the 
+certainty, do what we have always done, but do it early and do it now?
+  Rather, I would ask anyone who stands up to oppose this: 10 months 
+from now, where will your vote be on a 1-year extension? Where will 
+your vote be on a 2-year extension? What is wrong with making what we 
+have been doing since 2006 1 year and 2 years at a time permanent?
+  It is important for us to give the certainty to the beneficiaries and 
+to the communities who benefit from this provision. I urge a ``yes'' 
+vote on this. And I hope, once again, as we did last July, this body 
+will pass this bill with an overwhelmingly 2 to 1 majority.
+  Mr. LEVIN. Mr. Speaker, I yield myself 1 minute.
+  The answer to the gentleman is you pay for certainty. If you make 
+something permanent, you should pay for it. And that is essentially 
+what our chairman did when he chaired the Budget Committee. His budget 
+never assumed these provisions were permanently in the baseline or he 
+would never have
+
+[[Page H1006]]
+
+been able to say he balanced the budget in 10 years. That is the 
+reality.
+  If you want to add hundreds of billions of dollars to the budget, you 
+have got to face up to paying for them; otherwise, you squeeze out 
+other necessary programs.
+  Mr. Speaker, it is now a pleasure to yield 4 minutes to the gentleman 
+from Texas (Mr. Doggett), a member of our committee, a very active 
+member.
+  Mr. DOGGETT. Mr. Speaker, certainty, we are told, is the key factor 
+here--first words from Chairman Ryan in support of this bill. I think 
+the first certainty we have here is the knowledge that this bill is 
+part of a package that, approved through today, is certain to borrow 
+$317.5 billion. That is basically a request to this House and this 
+Congress that we approve the borrowing of $317.5 billion. And when you 
+look at other measures they have approved in the past, they are really 
+on a pathway to borrowing almost $1 trillion to finance these tax cuts.
+  I believe that certainty is important to taxpayers. I think that when 
+someone pays for Medicare and Social Security, they need to be certain 
+that it will be there. They need to be certain that the water that they 
+drink and the air they breathe is not contaminated. They need to be 
+certain that the food that they put on their family's table is safe, 
+that it has been inspected by a meat inspector or another type of 
+health inspector. They need to be sure when they drive home, they need 
+to have the certainty that the bridge that they drive over is not going 
+to fall down, as it did in Minneapolis a few years back. They need to 
+be certain that there is educational opportunity, quality education, 
+for their children. They need to be able to do all this without just 
+having to rely on charity.
+  This bill certainly selects a subset of tax provisions that benefit a 
+few Americans and gives them preference. And I like some of these 
+provisions. In fact, I am a cosponsor of some of these provisions, like 
+the conservation easement. But they are measures that can and should be 
+fully paid for instead of asking for another IOU. And because they are 
+select provisions, they exclude many working and middle class American 
+families.
+  For example, the American Opportunity Tax Credit, which is based on 
+the principle that we want all Americans to be able to get 
+postsecondary education in a college or a trade school, but a choice 
+that they make and get $2,500 directly off of their tax bill to pay for 
+tuition and books; the child tax credit that so many American families 
+claim to help with their children; the earned income tax credit that 
+even President Reagan said was a key factor in getting people out of 
+poverty, those are key provisions that were left over on the side and 
+not selected for borrowing or for anything else.
+  It is certain that many Americans have been left out of this very 
+costly package. Working families do need to depend on more than 
+charity. They need to be able to depend on this Congress to respond to 
+their needs.
+  Now, there is seldom a week that goes by in the area of medical 
+research that there is not a group here on Capitol Hill concerned with 
+Alzheimer's research, multiple sclerosis, diabetes, Parkinson's, 
+cancer, AIDS, or any number of dreaded diseases, basically saying: Find 
+a cure for my family member or my neighbor; find a cure before I get 
+this dreaded disease. There are groups that come here after the tough 
+droughts we had here last year saying the Forest Service and the 
+weather service need more resources in order to deal with the natural 
+disasters associated with climate change.
+
+                              {time}  1515
+
+  We have been unable to find the funds for our crumbling roads and 
+bridges. We do not have the investment we need from pre-K to 
+postgraduate in education.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield the gentleman an additional minute.
+  Mr. DOGGETT. When you dig another hundreds of billions of dollars--or 
+maybe $1 trillion--into debt, it provides an excuse for many of those 
+who don't believe in those programs to say: Gee, we would love to help 
+you with education for your children, and, yes, it would be good if we 
+had another meat inspector, but we just can't afford to do that.
+  So we get to the point that Mr. Ryan has raised: Why is it we should 
+raise taxes on some in order to maintain and renew some expired tax 
+credits for others? I think there are two reasons.
+  One is that some people are still not paying their fair share. We 
+have got some multinational corporations that don't pay as much as a 
+percent of their income as the people who clean up their offices. The 
+second reason is that it is for the same reason that we say, if we need 
+additional money for our national defense or for our educational and 
+retirement security at home, we have to come up with the revenues to 
+pay for that if we are to maintain any sense of fiscal responsibility.
+  There are some good provisions in this bill, but we need the 
+certainty that we will not be digging ourselves deeper into debt, 
+preventing our ability to meet other vital national needs for our 
+families.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself 10 seconds to say: 
+I wonder what the reaction would be if we chose to change the way that 
+the spending baseline is treated, such that, if any program in its 
+authorization expired, then it would expire on the baseline, and you 
+would have to offset the spending for renewing any program. I would be 
+curious to see what the reaction would be for that.
+  I yield 3\1/2\ minutes to the distinguished gentleman from Minnesota 
+(Mr. Paulsen), a member of the Ways and Means Committee.
+  Mr. PAULSEN. I thank the chairman for his leadership on leading the 
+effort to simplify the Tax Code and give some confidence and certainty 
+to those who use it.
+  Mr. Speaker, I rise in support of this legislation, the America Gives 
+More Act. This legislation is absolutely about helping those who are 
+most in need. Those are our charities and our foundations across the 
+country, which are working day in and day out to help those who are 
+most in need.
+  There are a number of important tax rules that we have already 
+discussed that are governing charitable donations and charitable 
+organizations, but they have always been temporary. We have already had 
+these provisions in law, and they have already expired, so here we are, 
+acting under retroactivity already. It is time to get rid of these 
+short-term fixes and embrace long-term solutions. This legislation 
+simply makes the provisions permanent.
+  It encourages companies to donate food to help feed the hungry. It 
+makes it easier for individuals who might want to use their money in 
+their IRA retirement funds and give that money to charitable 
+organizations to help others of all varieties. It incentivizes 
+landowners to help protect and preserve our environment for future 
+generations through conservation easements.
+  I want to just address one other provision that is in this bill, 
+which I actually authored with my colleague, Mr. Davis of Illinois, to 
+help simplify the Tax Code for private foundations. He has been a very 
+strong advocate in leading this effort.
+  I think we would all agree that private foundations make a world of 
+difference in our communities. We all have them in our States. I know, 
+in Minnesota, we have 1,400 different foundations that donate about $1 
+billion annually to all of those who are in need. Across the country, 
+there is something like 86,000 foundations that give tens and tens and 
+tens of billions of dollars. Now, these are really impressive figures, 
+but the truth is those figures could actually be a lot higher, and here 
+is why.
+  The foundation community has come to us, and they are telling us that 
+the Tax Code is discouraging them from actually giving large donations. 
+Today, these institutions face a really complex, cumbersome, two-tiered 
+system of taxation that requires them to pay either a 1 percent or a 2 
+percent excise tax on their investment income, but in order to qualify 
+for the low rate in any given year, they have got to go and donate an 
+amount greater than the average of their 5-year rolling average from 
+the previous 5 years.
+  This, actually, creates a very perverse disincentive for these 
+foundations to not make any donations of large amounts in times when we 
+might have a natural disaster, when there are economic tough times. 
+Absolutely now, this is because a large donation in
+
+[[Page H1007]]
+
+these times would significantly increase a private foundation's 5-year 
+average and make it difficult for them to actually qualify for the 
+lower rate. It also makes sure that they are not going to get the low 
+rate for the next 4 years. We are eliminating this disincentive by 
+replacing a very complicated, two-tiered system with a simple, flat, 1 
+percent excise tax on all private foundation investment income.
+  It is important to simplify the tax planning process especially for 
+smaller foundations, because they are the ones who are spending money 
+on accountants and lawyers to navigate the Tax Code when those are 
+valuable resources that could actually be used to help give grants to 
+others who need those resources. This bill simply makes sure that 
+charitable giving decisions are going to be based not on the Tax Code 
+but on the needs of our communities.
+  The bottom line is: every dollar that these organizations are paying 
+in taxes is one less dollar that they are giving to those who truly 
+need it. I ask my colleagues to join in supporting this legislation.
+  Mr. LEVIN. Mr. Speaker, it is now my real pleasure to yield 1 minute 
+to the gentlewoman from California, Nancy Pelosi, our distinguished 
+leader.
+  Ms. PELOSI. I thank the gentleman for yielding and for his leadership 
+on helping to have a budget that produces growth to reduce the deficit.
+  Mr. Speaker, today, we are talking about issues on which we are very 
+much in agreement in terms of the policy toward charitable giving. In 
+fact, some of this legislation has been introduced by Mr. Levin and Mr. 
+Thompson on the Ways and Means Committee, in fact, in offering an 
+amendment in Rules last night, which was rejected by the Rules 
+Committee, to go forward in a way that was fiscally sound and was paid 
+for.
+  Here is the problem that we have. We all want to have comprehensive 
+tax reform, where we can close loopholes and we can lower the tax rate 
+and we can have transparency in our Tax Code. In order to go to the 
+table to do that--and I know there is bipartisan interest in doing so--
+we should go to the table with as much freedom as possible and not 
+constrained by taking rifle shots on the floor of the House for certain 
+pieces of the Tax Code. The whole package that the Republicans are 
+putting forth is about $800 billion. That is a lot of money.
+  It is important for people to know that, in our budget every year, we 
+have a part of the budget that is called tax expenditures. They are 
+well over $1 trillion. Some of them are worthy, and we want to protect 
+them--certainly, charitable deductions fall in that category--but many 
+of them are not. Many of those tax expenditures, which means giving a 
+tax break whether it is special interest loopholes in the Tax Code to 
+special interests, do not create growth. They increase the deficit, and 
+they are just like spending. They are called expenditures because they 
+are giving a tax break to certain special interests.
+  Okay. How does that fit in here?
+  We want to go to the table--put everything on the table--and subject 
+it to agnostic scrutiny to say: What works for growth? What is fair 
+about transparency? How do we proceed in a way that lowers the 
+corporate rate? increases the revenue to the budget? that has fairness, 
+simplicity, and transparency?
+  What the Republicans are proposing this week is totally in opposition 
+to our being able to do that effectively. What they are saying is let 
+us take $800 billion--permanently, unpaid for--out of the mix, and then 
+we have less to negotiate on in terms of what we can do on the other 
+side of the budget, which are investments into the future.
+  I have always said--and I think that most economists would agree--
+that nothing brings more money to the Treasury or reduces the deficit 
+more than investments in education--early childhood education, K-12, 
+higher ed, postgraduate--lifelong learning. That is about growth. That 
+is about bigger paychecks, confidence to spend, demand injected into 
+the economy, jobs created, revenue produced. It is all part of how we 
+can go forward with a budget for the future that creates growth and 
+reduces the deficit.
+
+  So we have this obstacle, which sounds very good. How do you vote 
+against these provisions, which are good provisions, about nonprofits 
+and conservation and all of these other things? We agree--as I say, our 
+colleagues have introduced them--but then you say that they are 
+permanently unpaid for. Again, mixing some of the good with the not so 
+good is like a Trojan horse moving in. It looks good, but wait a 
+minute. There is a lot in the gut of that horse that is not good for 
+growth or for reducing the deficit.
+  All we are saying to everyone today is we can come to agreement on 
+some of the principles about tax deductions for charitable 
+organizations. It is curious to hear our colleagues talk so movingly 
+about providing food for hungry people when very few of them want to 
+vote for food stamps, but that is a whole other issue. It just shows 
+some inconsistency in all of this.
+  Just remember this one thing: if we want to have comprehensive tax 
+reform--if we want to reduce the deficit, if we want to have balance in 
+terms of investments plus how we produce revenue--we have to do it in a 
+comprehensive way. That is what a budget is about. What we are doing 
+today is to throw up, to just stack the deck against any investments in 
+growth, because we have already taken $800 billion off the table if we 
+go down this path.
+  What we are doing today is to say other tax reforms that we want to 
+make for fairness are already in jeopardy because of some of what is in 
+this. As I say, some are positive and some are not. Let's be discerning 
+in how we make the judgment. You can't be discerning by saying: I am 
+going to vote for permanent, unpaid-for tax expenditures--which, as I 
+say, have a blend of positive and negative in them, but it is hard to 
+make a distinction without seeing the whole, big picture of it.
+  I urge my colleagues to say: While I support some of what is good in 
+all of this, I do not support permanently taking it off the table for 
+consideration and not paying for it at this time.
+  In order to talk this through and have a clear instead of this drive-
+by approach to tax policy--an antideficit exploding spree that our 
+Republican colleagues are on while they profess to be deficit hawks--
+and while we are working this out and having a discussion about this, 
+we, in our motion to recommit, will have a 1-year extension of the 
+provision that we are talking about here so that, okay, in the course 
+of this time, we will go forward with a tax extender for 1 year.
+  Hopefully, in that time, under the leadership of the Budget chair, 
+who is also from the Ways and Means Committee--he understands these 
+issues very well. In fact, his own budget would not be consistent with 
+what he is putting on the floor today as he is the former chair of Ways 
+and Means, now of the Budget Committee. No. It is the reverse, but it 
+is related. They are so related because how we produce revenue is so 
+essential to how we do our budget, and the gentleman knows that because 
+his own budget would be inconsistent with what is on the floor today.
+  So I say to my colleagues: Hold on. Vote ``no'' on this. Vote ``yes'' 
+on the motion to recommit, which gives us a year to talk this through 
+but to do so in a way that reduces the deficit, produces growth, makes 
+bigger paychecks from that growth to increase more revenue, and we 
+would have these provisions go forth in a way that is fair, that is 
+paid for, and that is part of comprehensive tax reform.
+  With that, again, I thank the gentleman for his exceptional 
+leadership and the members of the Ways and Means Committee for their 
+courage in opposing something that has popular appeal. There is a 
+reason why. They are not bad policies. It is just that they are not 
+paid for, and they are permanent. We should do this, but we should do 
+it right. I urge my colleagues to vote ``no'' on the bill and ``yes'' 
+on the motion to recommit.
+  I thank the gentleman for his leadership.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself 30 seconds.
+  I want to say to the gentlewoman, the minority leader, that I 
+appreciate the tone and the temperament of her remarks. I thought that 
+was well done.
+
+                              {time}  1530
+
+  I disagree with the basic premise on baseline. I won't get into the 
+details. I talked about that a little bit before.
+
+[[Page H1008]]
+
+  So I have some differences of opinion on the facts as she laid them 
+out. I see it quite differently. But I thought that was a good tone and 
+temperament that speaks well to the need for tax reform that is 
+comprehensive. We believe that this helps move us in the right 
+direction toward tax reform.
+  I won't go to the baseline issues again, only to say I think this is 
+a positive step in the direction toward comprehensive tax reform, which 
+clearly the gentlewoman--meaning both parties--agree is something that 
+we have to tackle.
+  Mr. Speaker, I yield 4 minutes to the gentleman from Illinois (Mr. 
+Roskam), a member of the Ways and Means Committee.
+  Mr. ROSKAM. I thank Chairman Ryan for yielding.
+  Mr. Speaker, the gentlewoman from California said that we needed to 
+use agnostic scrutiny when we are evaluating these. I think it is a 
+little bit ambitious to have a roomful of agnostics when we are all 
+true believers. We all come in with an agenda.
+  An agnostic, Mr. Speaker, would look at the four things in the bill 
+that we are contemplating today and would say of all four of these 
+things: Surely these are not going to get caught up and swept away in 
+tax reform; surely, it is not going to be how we are treating food 
+charities; surely, it is not going to be how we are dealing with 
+conservation easements; surely, it is not how we are treating IRA 
+contributions to charities; and surely, it is not trying to make 
+private foundations and give them a sure footing. Surely, these are the 
+things we can all agree on based on agnostic scrutiny.
+  Did you notice something, Mr. Speaker? There is nobody on the other 
+side of the aisle who has stood up today and said: The food charity 
+thing? Disaster. I'm against that. Or: Conservation easements? 
+Ridiculous. Look into that a little bit more. Or: The IRA 
+contributions? Be careful there. Or: Private foundations, getting them 
+all squared away? I'm against it. Not one person said that.
+  So what was their argument? They wrap themselves up in process. But 
+by wrapping themselves up in process, they have opened themselves up to 
+criticism, because if we had gone a different route, if the chairman 
+had taken a different path, they would have said: Chairman Ryan, why 
+don't you start on things where there is bipartisan agreement? And here 
+the chairman is bringing bills to the floor that have been 
+enthusiastically, actively supported, Mr. Speaker, by our friends on 
+the other side of the aisle. Why have they supported them? Because they 
+are good ideas. This is where there is an incredible amount of common 
+ground.
+  There have been some false arguments made on the other side that are 
+just not that persuasive, and the argument by the gentleman from Texas 
+created the impression that if you vote ``yes'' on this, then we are 
+not going to be able to afford meat inspectors. We are not going to be 
+able to have bridges or a cure for cancer. It is somehow out of our 
+reach. Spare me.
+  Mr. Speaker, I am reminded at times like this of a letter that Thomas 
+Jefferson wrote in 1790 to a man named Charles Clay. I am going to give 
+you three lines from this letter that I have committed to memory 
+because I think it deeply resonates where most Americans are when they 
+look at our House today.
+  Thomas Jefferson wrote this to Charles Clay. He said:
+
+       The ground of liberty is to be gained by inches. We must be 
+     content what we can get from time to time and eternally press 
+     forward for what is yet to get. It takes time to persuade men 
+     even to do what is for their own good.
+
+  Mr. Speaker, that is Jefferson's admonition--no stranger to vision, 
+no stranger to the big picture as the author of the Declaration of 
+Independence.
+  We don't walk away from tax reform, the aspiration that we all have, 
+but it is to say: Look, if we are going to be agnostically scrutinizing 
+these things, even an agnostic would say this ought not to be caught in 
+the crossfire.
+  We ought to vote ``yes'' for this bill and move it along.
+  Mr. LEVIN. Mr. Speaker, I yield myself 30 seconds.
+  Essentially, what the gentleman from Illinois says is: Well, let's do 
+tax reform by picking and choosing a piece or a few at a time.
+  That is the opposite of tax reform. He described it. That is the 
+difference.
+  Mr. Speaker, I yield 3 minutes to the gentleman from California (Mr. 
+Thompson), a very distinguished member of our committee.
+  Mr. THOMPSON of California. I thank the gentleman for yielding.
+  Mr. Speaker, I rise today as the Democratic lead on the conservation 
+easement bill and to very regrettably say that I rise in opposition to 
+this bill that I think so highly of.
+  I don't disagree with the policy. I don't disagree with the need for 
+certainty, something that has been referred to many times today. And I 
+don't disagree that the way the Republicans did it last year--in the 
+last 2 weeks and doing it retroactively--I don't disagree that that was 
+the wrong way to do it.
+  I have worked for permanency on conservation easements ever since 
+Chairman Camp and I passed the big expansion in 2006. I have been the 
+Democratic lead in every Congress to make conservation easements 
+permanent.
+  Conservation easements are good public policy. They protect open 
+space. They protect important ag lands. They protect important wildlife 
+habitat. They are essential for clean air and clean water. They are 
+essential for locally sourced good, healthy food. They are important to 
+hunters, to fishermen, to conservationists.
+  They are important to people who live in rural areas and they are 
+important to people who live in urban areas. Nowhere is that more 
+apparent than what happened in New York. We were able to save New York 
+City from having to spend $8 billion in building a water filtration 
+system because we were able to protect their watershed area, in large 
+part through conservation easements.
+  We all know that these are important. Every one of us knows it is 
+important. That is why every Congress, when we introduce this bill, we 
+get upward of and sometimes over 300 bipartisan coauthors on the bill, 
+but the problem is this bill isn't paid for, as you have heard a number 
+of times.
+  Sadly, I offered an amendment that would have totally offset the cost 
+of the conservation easement portion of the bills that we are taking up 
+today. It was an offset with no tax increases. It didn't increase 
+anybody's taxes, didn't put the taxes on the back of somebody else, 
+didn't shift the cost to anyone else. As a matter of fact, it focused 
+on scofflaws who have been able to avoid paying their taxes because of 
+a short statute of limitations. We offered to extend that statute of 
+limitations. We could have paid for this whole thing. Unfortunately, my 
+friends on the Republican side of the House rejected that amendment.
+  So instead, we are here with this bill, not paid for. Instead, today, 
+we are going to vote on $93 billion worth of unpaid-for tax bills that 
+will add $93 billion to our deficit.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield the gentleman an additional 1 minute.
+  Mr. THOMPSON of California. If you add that to what our Republican 
+colleagues did in the Ways and Means Committee this morning when they 
+passed $225 billion of unpaid-for tax expenditures, that means that 
+just today the Republican side of this House spent $320 billion that we 
+don't have, directly shifting the cost to our deficit and our debt.
+  This is not tax reform, Members, and this is not paid for. It is not 
+a good way to proceed, and I ask for a ``no'' vote.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield 3 minutes to the 
+distinguished member from New York (Mr. Reed), a member of the Ways and 
+Means Committee.
+  Mr. REED. I thank the chairman for yielding.
+  Mr. Speaker, I rise today in support of the underlying bill, the 
+America Gives More Act of 2015. In particular, Mr. Speaker, I want to 
+talk about a bill that is near and dear to me, and that is the Fighting 
+Hunger Incentive Act, which is a subpart of this underlying bill.
+  The ranking member and I had a conversation the last time this 
+legislation was before the House for consideration. We got a large 
+bipartisan vote in support of the fighting hunger provisions.
+
+[[Page H1009]]
+
+And I know the ranking member, the gentleman from Michigan, has worked 
+extensively on this legislation for years and years and years. I know 
+in our last debate and conversation here that the ranking member had 
+some concerns that I questioned whether or not he cared about the 
+people that were going to be helped by this act.
+  I want to make it clear here today, Mr. Speaker, I understand the 
+ranking member cares about those individuals, just as I do--just as all 
+of us, as Democrats and Republicans, should be focusing this debate not 
+necessarily always about the arguments of D.C. but about the people 
+that we came here to represent and help.
+  Fighting hunger is a bipartisan issue. We unite as Americans when our 
+fellow citizens are suffering. When you look at the millions of 
+Americans who are going hungry every day, Mr. Speaker, we shouldn't be 
+divisive. We shouldn't be arguing about the details of what my 
+opponents on the other side are putting forth today.
+  We should stand for those millions of Americans, where we say this 
+tax policy is going to result in tons and tons of food not going into 
+landfills, not going into the garbage, but going onto the tables of our 
+fellow Americans that could use that food the most: the hungry, the 
+poor.
+  And we can argue whether there are other ways to do it and there are 
+other things that we can do to help them, but we can agree that this is 
+one piece of a solution to this problem that we could pass today and 
+move the needle and care for our fellow Americans.
+  That is why I ask my colleagues on both sides of the aisle to support 
+this legislation. We don't want food going into landfills. We want food 
+to be put on the table of the people that need it most.
+  We have concerns about the debt on both sides. I get it. But here is 
+an opportunity for us to come together. I am concerned about the debt. 
+My colleagues are concerned about the debt. But here is an opportunity 
+for us to show the American people that sent us here that we care about 
+them, we are listening to the American people, and we are willing to do 
+something about it in order to make sure that this policy results in 
+that food going to our fellow citizens who need it most.
+  Mr. LEVIN. Mr. Speaker, if could I ask how much time we have 
+remaining.
+  The SPEAKER pro tempore. The gentleman from Michigan (Mr. Levin) has 
+22\1/2\ minutes remaining, and the gentleman from Wisconsin (Mr. Ryan) 
+has 21\1/2\ minutes remaining.
+  Mr. LEVIN. Mr. Speaker, I yield 4 minutes to the gentleman from 
+California (Mr. Becerra), another distinguished member of our 
+committee, the chairman of our Caucus.
+  Mr. BECERRA. Mr. Speaker, I thank the gentleman for yielding.
+  I think we should clarify something. Every day, Americans donate 
+food, clothes, and money to charities. Millions of Americans do that 
+all the time. Most of those Americans don't expect to get something in 
+return. They do it because it is the right thing to do, and it makes 
+them feel like they are part of the American community. So every day 
+Americans are giving.
+  Now, the Tax Code happens to also try to encourage us to do more 
+giving, which I think all of us agree is good. So let's remove that 
+from the debate because I think we are confusing folks who might be 
+watching this.
+  This isn't about trying to give people an incentive to give because 
+Americans are doing it whether or not the Tax Code says to them: We 
+want you to do this.
+  The issue is this. Under the Tax Code, some Americans--not a majority 
+of Americans, not even a third of Americans, but a fraction of 
+Americans--can take advantage of the provisions in the Tax Code that 
+give them tax breaks for having given something.
+  You have heard a discussion about food. If you gave canned goods 
+because the boy next door put up a bag and you put canned goods in 
+there and you gave them away, this provision isn't about that. No. 
+There are a fraction of American taxpayers, mostly companies, 
+restaurants, and so forth, who can take advantage of that. You can't. 
+Americans can't take advantage of that provision.
+  Say you have an IRA, or Individual Retirement Account. Some Americans 
+have an IRA. The majority of Americans don't, but some do. You want to 
+be charitable. Say you have done fairly well. You want to give some of 
+your IRA to a charity. The Tax Code says: We want to incentivize you to 
+do that.
+
+                              {time}  1545
+
+  The Tax Code right now says you can give up to $100,000 in your IRA 
+to charity. Guess what? That won't be recognized as income.
+  How many Americans make $100,000? Not too many--but say you make 
+$100,000. How much are you going to pay in taxes? How many of you have 
+$100,000 in your IRA that you give away to a charity? Well, there are 
+some people who can, and there are some people who do. Guess what? They 
+get a tax break for doing that.
+  It is a pretty big tax break if you think about how much you would 
+pay in taxes on $100,000 of your income. They get to give that money 
+away. Guess what? They don't get taxed a cent on that $100,000 that 
+they just gave out of that IRA that they can do.
+  By the way, you don't get to just do it once in your lifetime. Every 
+year, an American can give away $100,000 out of your IRA and get the 
+tax break.
+  How many Americans do that? A tiny, tiny fraction--but guess what? 
+When you take that IRA rollover tax break and you take that other tax 
+break for those companies that can give away food and you take the 
+other tax breaks for those who have land that they could give away to a 
+charity, guess how much it adds up to?
+  It adds up to what we, today, provide in funding to do research 
+against breast cancer and all the research funding we put in to do 
+Alzheimer's research, the same amount of money.
+  When people say, You don't have to worry about the cost of that, you 
+don't have to pay for this--well, we could spend twice as much money to 
+find a cure for breast cancer, twice as much money to find a cure for 
+Alzheimer's disease, if we weren't giving away these tax breaks to 
+somebody who can afford to give away $100,000 in their IRA every year 
+to do good.
+  By the way, that wealthy American could give $100,000 out of that IRA 
+today, but they get a tax break for doing it. Would that stop them from 
+giving away $100,000 just because they don't get the tax break? I don't 
+think so.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield the gentleman an additional 1 minute.
+  Mr. BECERRA. I don't think so because you don't have to be wealthy in 
+America to give. We all want to give. In fact, the folks who give the 
+most are the folks who earn the least. They give what they can.
+  How many times have you been invited to someone's home who you know 
+it is hard for them to put food on the table, and they invite you to 
+eat at their home, and they don't expect you to give them a thing?
+  We give because we think it is the right thing to do. The Tax Code 
+wants to incent that, and that is good because we want to help charity.
+  To say that it doesn't have to be paid for, when we have to pay for 
+all the cancer research, for breast cancer, when we have to pay for the 
+research to cure Alzheimer's disease, when we have to pay for those 
+food inspectors to make sure that the food that gets on our table is 
+free of carcinogens and diseases and microbes that could endanger us--
+absolutely, we have to pay for those things. As it was said earlier, 
+there is no free lunch.
+  All we are saying is this: Let's do good. If we are going to give 
+someone who is wealthy a chance to do good, let's pay for it. Let's 
+figure out a way to do that because we want to be charitable, but let's 
+not play this game that it doesn't cost somebody in America for this 
+tax break to go mostly to wealthy folks.
+  Mr. RYAN of Wisconsin. Mr. Speaker, at this time, I yield 1 minute to 
+the gentleman from California (Mr. McCarthy), the distinguished House 
+majority leader.
+  Mr. McCARTHY. Mr. Speaker, I thank the gentleman and the chairman for 
+yielding.
+  I have to pause for a moment. We debate a lot of things on this 
+floor, and they are worthy debates, and they are interesting debates, 
+but let's first, Mr. Speaker, tell the American people what we are 
+debating today. Fighting Hunger Incentive Act, that is what we are 
+debating.
+
+[[Page H1010]]
+
+  Lots of times, I question why we have debates on the floor certain 
+times. Right now is one of them. I really wonder if the American people 
+tuned in today and said: You were really having an argument against 
+Fighting Hunger Incentive Act?
+  Let me walk through what we are debating because, just a couple of 
+days ago, I just went down the road here to the D.C. Central Kitchen. 
+It is a nonprofit, feeds a lot of homeless, also helps people build 
+jobs.
+  You know how it was created? Because a small businessman saw people 
+who were hungry, then he saw an inaugural for the 41st President of the 
+United States and said: Should that food all be wasted?
+  He took the leftovers and found someone who needed it. Then he went 
+further and he goes: You know what, these people coming to eat, what 
+they really need is they need a job, so why don't I create a culinary 
+school?
+  Ninety-nine classes have gone through this culinary school. And you 
+know what? I met this young man who went through class number two. 
+Early in his life, he did some things wrong, and he was incarcerated 
+for more than 20 years.
+  But you know what his life is today? He is the supervisor for 8 
+years. He has a 5-year-old daughter, and he has a college fund for that 
+daughter. That is because the current Tax Code allows it to happen.
+  Mr. Speaker, when I listen to the other side, you would think we are 
+creating a whole new bill. We are taking a Tax Code and extending it, 
+instead of having a problem when someone wonders: Will I still get that 
+donation?
+  So I asked them, I see how many people you feed here and the number 
+of volunteers--if you want to volunteer at the D.C. Central Kitchen, 
+you have to sign up, and the opening is in May because people want to 
+give back.
+  They say 60 percent of all the food they get is donated. They get 
+fish that would actually go into a dump beforehand. But you know what? 
+It is not easy, if you are a small farm somewhere else, to donate it.
+  This incentive allows it happen. Why? Because one person saw a need--
+he didn't go to government to do it, but he used the system to actually 
+enhance and build it up.
+  I don't have to just go to D.C. to see this. I see this in my own 
+community. My wife and I go down to the mission in Kern County. I see 
+lives changed. I see people fed.
+  But you know what? I see all walks of life. I was down to feed the 
+mission one day, and a person that was just a couple of lines behind it 
+in there to get food went to the same elementary school as me and the 
+same junior high and the same high school. That is the greatness of 
+this country, that we are willing to help one another.
+  Mr. Speaker, I just don't understand. If we are willing to help each 
+other, why do we have to fight to make it allowed to do that?
+  There are worthy fights on this floor, but this is not one. We are 
+better than this, Mr. Speaker. I will tell you this: What I am most 
+amazed and dumbfounded by, this bill has a veto threat.
+  This bill to help hunger, to help the next Dawain, to help the next 
+individual be fed, has a veto threat.
+  You know what? I read the veto threat. The administration doesn't 
+oppose the provision because it is already in law.
+  So many times, people say: Why do you wait till the last minute in 
+this House? Well, we are not now. We are taking it up early, so nobody 
+has a problem.
+  But you know what the administration, Mr. Speaker, the President 
+said? He is threatening to veto this bill because Congress didn't pass 
+other bills the President wanted and because the President might oppose 
+future bills that the House could pass.
+  Seriously? That is just wrong. Mr. Speaker, I believe in this 
+country. I believe in mankind. I believe in the goodness of all of us. 
+It is not about party. It is about helping one another.
+  We are fighting for the incentive to end hunger and encouraging 
+others to do it. We shouldn't have to debate about it. We should 
+celebrate it.
+  I look forward to this bill passing with a large majority and the 
+President signing it and all of us, as Americans, coming together to 
+help the most precious because it is in every single one of our 
+communities, hunger.
+  Let's put our political games aside, Mr. Speaker, and let's rise to 
+what people expect of this House, to help the common good.
+  Mr. LEVIN. Mr. Speaker, I yield myself 1 minute.
+  I think the majority leader is leaving the floor, but I want him to 
+hear me. I am an original if not the original sponsor of the provision 
+regarding food donation. I have a son and daughter-in-law who are 
+working on this very issue.
+  The issue is this: the majority leader helped lead an effort to cut 
+food stamps by $40 billion. The argument was we could not afford it. 
+Now, they come forth here with a provision that they don't want to pay 
+for, added to other provisions that will cost $200 billion, $300 
+billion, going to $700 billion or $800 billion.
+  That puts a bad name on the notion of commitment. Commitment needs to 
+have some consistency.
+  Mr. Speaker, I yield 3 minutes to the gentleman from Illinois (Mr. 
+Danny K. Davis).
+  Mr. DANNY K. DAVIS of Illinois. Mr. Chairman, I have long supported 
+the tax incentive for businesses to deduct charitable contributions of 
+food inventory. Indeed, I have a bill to expand the deduction for non-C 
+corps, as does the bill under consideration.
+  The food inventory deduction allows us to help stock America's food 
+banks and feed the hungry. Importantly, we need to address the food 
+inventory deduction because, unlike other business tax extenders, the 
+food deduction provision cannot be useful if extended retroactively. If 
+it expires, our hunger relief organizations miss out on potential 
+donations of food.
+  In Chicago, where I live, one in six people, including children, do 
+not know where their next meal is coming from.
+  In addition to advancing charitable and S corps tax provisions, this 
+committee should be prioritizing the permanent extension of the earned 
+income tax credit to help the working poor afford food and other basic 
+needs for their families.
+  We should be prioritizing the new market tax credits to help 
+distressed communities so that the hungry can have jobs so that they 
+can purchase their own food and not rely on food banks.
+  Although I strongly support incentivizing charitable donations of 
+food inventory, I do not support passing unpaid for, permanent, and 
+piecemeal tax breaks while the needs of other vulnerable citizens go 
+unmet.
+  We should be considering the EITC, AOTC, new market tax credit, work 
+opportunity tax credit, tuition and fees deduction, teacher tax 
+benefits, Promise Zones, and hundreds of other tax provisions that help 
+our communities and our people.
+  One of the things that I have learned--if I know nothing else--is 
+something that Frederick Douglass was known for saying, that in this 
+world, you may not get everything that you pay for, but you most 
+certainly will pay for everything that you get, and if you don't pay 
+one way, then you will definitely pay another way.
+  The price of increasing the deficit, not providing a broad, 
+comprehensive tax reform effort, is something that we ought not be 
+paying for. The principles and concepts in many of the provisions, 
+obviously, we agree, but we do not agree that you can go on paying for 
+what it is that you need.
+  Mr. Speaker, I will vote ``no'' on these provisions.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield 1 minute to the 
+distinguished gentleman from Minnesota (Mr. Emmer).
+  Mr. EMMER. Mr. Speaker, I rise today in support of the Fighting 
+Hunger Incentive Act of 2015.
+  Roughly one in 10 Minnesotans live in poverty. Sadly, this means that 
+many Minnesotans, including children, lack access to the food and 
+resources they need to maintain a healthy and active lifestyle.
+  This morning, I had an opportunity to tour and make sandwiches at 
+Martha's Table, an organization here in D.C. that reaches more than 
+18,000 people through their programs. I saw firsthand the need for 
+legislation like this.
+  This legislation will permanently extend the enhanced charitable 
+deduction for all businesses that donate food to charities and food 
+banks. This will encourage more businesses to chip in and help in the 
+ongoing fight against hunger.
+
+[[Page H1011]]
+
+  We have an obligation to help those around us, and this is a 
+nonpartisan, bipartisan way to make a big difference.
+
+                              {time}  1600
+
+  Mr. LEVIN. I yield 3 minutes to the gentleman from Maryland (Mr. Van 
+Hollen), our ranking member on the Committee on the Budget so dedicated 
+to these issues. If he needs more time, he should just ask.
+  Mr. VAN HOLLEN. I thank my friend from Michigan.
+  Mr. Speaker, things are not always what they seem, and this is one of 
+those cases. It is unfortunate because tax incentives for charitable 
+giving are the kind of issues we should be handling in a bipartisan 
+way. We should be working together in a bipartisan manner to reform our 
+Tax Code and this as part of that.
+  Unfortunately, we are not doing that today, and this bill along with 
+the series of other bills that will be coming to the floor in the days 
+to come will add $350 billion to our deficit over the next 10 years.
+  Mr. Speaker, most of the bills that are coming next are permanent 
+extensions of tax breaks to major corporations. In the process, they 
+don't pay for any of that. They don't close a single corporate tax 
+loophole to provide those tax breaks.
+  Now, Mr. Speaker, I am holding in my hand the budget that Republicans 
+passed in this House just a year ago. Now we have the chairman of the 
+Committee on Ways and Means--he was chairman of the Committee on the 
+Budget, a good friend of mine. In their budget last year, they said 
+they would not do what they are doing today. They passed a budget 
+saying they would not have tax extenders that added to the deficit. I 
+am reading right here from the budget that I think passed unanimously 
+with Republican votes. It says they will only do these tax extenders if 
+such measures would not increase the deficit for the period of fiscal 
+years 2015 to 2024.
+  Here we are, less than a year later, throw their budget out the door. 
+Why did it matter? Because last year they wanted to pretend their 
+budget was in balance after 10 years, and they knew that if you had 
+these tax extenders that were unpaid for, they wouldn't have a balanced 
+budget. It wasn't balanced anyway, but no matter, that is why they did 
+it.
+  Now, why does this matter beyond the fact that the Republican 
+majority did one thing last year and is doing something different 
+today? It matters because when you increase the deficits, our 
+Republican colleagues are going to come right back around to us and 
+say: You know what? The deficits are going to go up, and so we have to 
+cut some of the investments that are supposed to help vulnerable 
+people--the very people our Republican colleagues say they want to help 
+today. They are going to say: Deficits are going up. We have got to cut 
+those programs.
+  You know how we know that? Even before they increase the deficit like 
+they are doing today, they were cutting those investments last year. In 
+fact, while they are claiming to fight hunger today, here is what the 
+budget from last year did: it would have cut the food and nutrition 
+programs by 20 percent, $137 billion. That would have ended nutrition 
+assistance for 3.8 million Americans.
+  Now, I heard one of my friends and colleagues, Mr. Roskam from 
+Illinois, saying Democrats are opposing this.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield the gentleman an additional 2 minutes.
+  Mr. VAN HOLLEN. I heard some of our colleagues saying we are opposing 
+this on the basis of process. Really? Cutting nutrition assistance 
+programs for 3.8 million Americans is process?
+  You know what else their budget did? It cut the category of spending 
+that we use for the Women, Infants, and Children program to the point 
+that 200,000 women, infants, and children would have been cut off of 
+supplemental nutrition assistance under the Women, Infants, and 
+Children program. Process? Really? I thought our colleagues were saying 
+they wanted to fight hunger.
+  That budget last year, the one I am holding in my hands that passed 
+here, you know what else it did? It did not extend tax credits for 
+vulnerable people. It did not extend the earned income tax credit bump 
+up. It did not extend the child tax credit. At the same time, they had 
+a budget, and I suspect they will again this year, that cuts the top 
+income tax rate for millionaires. That is what they do.
+  We can do a lot better, Mr. Speaker. That is what Democrats are 
+saying. We can make these reforms to the Tax Code. We can make the 
+charitable deduction permanent, but we can do it in a way that doesn't 
+hurt other programs for hungry people. We can help hungry people 
+through one mechanism without hurting those same people through another 
+mechanism. That is why the President said he was going to veto this 
+bill, not because it helps the deduction for charitable giving. This is 
+a bill that says we are going to help some hungry people. But you know 
+what? We are going to do something else in our budget that actually 
+hurts those same hungry people even more, much more.
+  Now, I am also holding in my hand the Democratic budget that was 
+presented last year. You know what we do? We permanently extended this 
+charitable deduction--permanently--just like this bill. But you know 
+what we did not do?
+  The SPEAKER pro tempore. The time of the gentleman has again expired.
+  Mr. LEVIN. I yield the gentleman an additional 2 minutes.
+  Mr. VAN HOLLEN. Mr. Speaker, I thank my friend.
+  So I just want to be clear. In our budget, we extended permanently 
+this charitable deduction to fight hunger, the fighting hunger 
+incentive. We did that.
+  But you know what we did not do? We did not cut the food and 
+nutrition program, SNAP, by 20 percent. You know what we did not do? We 
+did not cut the part of the budget that funds the Women, Infants, and 
+Children program so that 200,000 people would not have the benefit of 
+that.
+  You know what we did do? We cut a lot of the corporate tax breaks. We 
+said we should not have a Tax Code that actually rewards American 
+companies that move American jobs and capital overseas, so we would cut 
+down on those. In that way, we were able to pay for them. That way, Mr. 
+Speaker, we were able to extend the charitable deduction permanently, 
+but we were also able to avoid cutting the Women, Infants, and Children 
+program and avoid cutting the food and nutrition programs. That is what 
+we are saying.
+  Unfortunately, the bill before us today, what they are saying is, by 
+increasing the deficit, yes, we are going to extend this program to 
+fight hunger; but, on the other hand, when their budget comes around 
+next year, they are actually going to pass stuff that hurts those same 
+people even more.
+  What we are saying is we don't have to help people by hurting people. 
+We can do it all if we are willing to cut some of those corporate tax 
+breaks, tax expenditures, spinning the Tax Code for major corporations 
+that are put there because they have good lobbyists in Washington.
+  So let's do this the right way. That's the way we did it in the 
+Democratic budget last year. That is the way we will do it in the 
+Democratic budget again this year. Let's not help people by hurting 
+other people or even hurting the people we are trying to help.
+  Mr. Speaker, I regretfully urge that we reject this bill and do this 
+the right way.
+
+  Mr. RYAN of Wisconsin. I yield 2 minutes to the gentleman from 
+California (Mr. Knight).
+  Mr. KNIGHT. Mr. Speaker, I have gotten to sit during this debate, and 
+for the last hour or more I got to listen to nobody arguing, nobody 
+wondering that this is a bad idea, nobody saying that this is something 
+we shouldn't do.
+  When you walk around your district--and me being a freshman, I get to 
+hear all my friends. You know, you never ask your friend whether you 
+are a liberal or a conservative or a Democrat or Republican. You just 
+talk to your friends. Friends always ask me: Why don't you get 
+something done?
+  As a State legislator in California, it was difficult for us to get 
+some things done. I was always frustrated about that. I never liked to 
+hear the term ``ABC''--Anywhere but California. But the reason that 
+term came up was because of certainty, was because businesses didn't 
+know what we were going
+
+[[Page H1012]]
+
+to do from year to year. That is exactly what we are talking about 
+today--certainty. ``Certainty'' is just not a word that we throw 
+around. ``Certainty'' is something that has meaning. If we are going to 
+extend this for, now, 7, 8 years in a row, it is obviously a good idea.
+  Going back and forth and volleying back and forth saying that this is 
+a great idea, we all agree, we just want to do it on a 1-year basis, 
+doesn't give certainty, doesn't give that reliability that this is good 
+policy, we all believe in it, and we can get what we desire out of it.
+  When we go back to our districts and we go to our food pantries or we 
+go to places that are helping the needy and helping the people that 
+need it, feed people that need to be fed, wouldn't you like to go back 
+there and say: ``You know what? This is not something we are going to 
+kick back and forth next year or the next year. This is something that 
+is going to be on the books. We have sheer certainty about this''?
+  So listening to this debate and listening to what is happening of 
+these four measures is what I draw out of this. What I draw, what we 
+can get today: bipartisan, moving this forward, getting certainty for 
+these measures that we seem to all agree upon.
+  Mr. LEVIN. I reserve the balance of my time.
+  Mr. RYAN of Wisconsin. At this time, I yield 2 minutes to the 
+gentleman from North Dakota (Mr. Cramer).
+  Mr. CRAMER. Mr. Speaker, I thank the chairman.
+  As I have been sitting here, I have to admit, my thoughts have 
+changed back and forth. My mind has changed. My speech has changed 
+dramatically.
+  It occurred to me: I think my friends on the other side of the aisle 
+are asking the wrong question. The question should not be: What is this 
+going to cost the taxpayers? The question should be: What will the cost 
+to the taxpayers be if we let these deductions expire?
+  Then it occurred to me, in listening to some of the speeches, that 
+there is not a lack of sincerity in the desire to feed hungry people, 
+not on their side, and certainly not on our side. I grieve when 
+somebody's sincerity is questioned in this way. But I think what the 
+question is is: Who do you trust to deliver the solution to people's 
+needs, to people's hunger? What about college education? What about 
+women's shelters? Who is best prepared to deliver those resources and 
+those services?
+  I submit to you, Mr. Speaker, it is charity. It is charity. The 
+Sermon on the Mount wasn't communicated to the Congress; it was 
+communicated to the congregation. It wasn't delivered to the democracy; 
+it was delivered to the disciples. Our Tax Code ought not punish 
+charity; it ought to lift it up.
+  I think we are asking the wrong question: Who is best prepared to 
+deliver these services?
+  I think the other wrong question is we are arguing over what is not 
+in the bill sometimes as opposed to what is. I wish there was more in 
+it. I wish that we could include life income tools and the charitable 
+IRA rollover. The chairman knows that. I hope to get to that. But I 
+also know that incremental change is better than no change. Incremental 
+progress is better than no progress. I hope we can get to comprehensive 
+tax reform. I am confident we can. But today I am asking our 
+colleagues, let's do what we can do. What we can do is this bill that 
+is in front of us. I urge a ``yes'' vote.
+  Mr. LEVIN. I yield 1 minute to the gentleman from New York (Mr. 
+Crowley), another member of our committee.
+  Mr. CROWLEY. Mr. Speaker, I thank the gentleman from Michigan for 
+yielding me this time.
+  It is unfortunate we are here today, once again, in a situation where 
+I think the overall intent sounds very good: charitable giving, helping 
+the poor, helping the hungry. Quite often that is something you hear 
+from our side of the aisle. In fact, all last year we had done the food 
+stamp challenge. We had done a number of things to bring focus and 
+attention to the plight of the hungry in the United States, and it is a 
+bit raw to hear my colleagues on the other side of the aisle speak 
+about their solution to this issue as a tax bill unpaid for that adds 
+more than $14 billion back on to our national deficit and to our debt, 
+ultimately.
+  The President announced that he would cut the deficit in half within 
+4 years. He has now reduced the deficit by over a trillion dollars, 
+from $1.4 trillion to a little bit over $400 billion.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield the gentleman an additional 1 minute.
+  Mr. CROWLEY. Not perfect. We still have a ways to go. But isn't that 
+remarkable? A Democratic President that reduced the deficit, was handed 
+a deficit of over a trillion dollars by his Republican predecessor, and 
+now this President can lay claim--and I think rightfully so--to having 
+reduced the deficit, yearly deficit, by over a trillion dollars.
+  Yet here are my Republican colleagues. Once again, they see an 
+opportunity to add on to the deficit again here in this particular 
+measure by $14.3 billion. It doesn't sound like much, but when you add 
+up the whole package, it is well over $300 billion you want to add back 
+to the Nation's deficit. I think it is wrong. I think most Americans 
+think that is wrong. Democrat, Republican, it matters not. We are 
+making progress. You are putting that on the back of future 
+generations. The hungry that you pretend to be taking care of today are 
+going to have to try to pay for these bills in the years to come. I 
+think this is wrongheaded. I hope that my colleagues on this side do 
+not support this measure.
+
+                              {time}  1615
+
+  Mr. RYAN of Wisconsin. Mr. Speaker, at this time, I yield 1 minute to 
+the gentleman from Pennsylvania (Mr. Costello).
+  Mr. COSTELLO of Pennsylvania. Mr. Speaker, one thing that is 
+particularly of pride for organizations and individuals in southeastern 
+Pennsylvania is the success of the Chester County Food Bank and many 
+other food banks.
+  Fighting food insecurity is something that you wouldn't think is a 
+real problem in the more wealthier enclaves of this country, yet there 
+are those who wake up every morning not knowing where their meal is 
+going to come from. Food banks provide a very valuable service. The 
+Fighting Hunger Incentive Act aims to assist our food banks and assist 
+organizations and individuals to help fight hunger. That is what this 
+bill is about. We should pass it, and we should move on in a bipartisan 
+fashion.
+  Mr. LEVIN. Mr. Speaker, I yield myself the balance of my time.
+  We have heard a lot of discussion about many of these programs, maybe 
+most of all about food programs. But really, let's look at it beyond 
+the rhetoric. Essentially when it comes to food programs, what the 
+Republicans are doing is giving with one hand while they take with 
+another. And there is much more that they take than they would give.
+  The food provision here comes to $2.2 billion. They have chopped $40 
+billion from food stamps; that is 20 times more. As the gentleman from 
+Maryland (Mr. Van Hollen) pointed out, when you add in WIC and other 
+programs, they have cut way over $100 billion. And they say they had to 
+do that, in part, because they could not afford it.
+  So they come forth with bills that are going to add to the deficit, 
+and that shows what this is all about, because they pass these bills 
+adding to the deficit, and then they come back and they say, Sorry, 
+when it comes to other needed programs, we don't have the money.
+  Indeed, not only do they give with one hand and take with another, 
+and much more, but they give an empty hand, an empty hand like this--
+nothing in it--for the Child Tax Credit, for the Work Opportunity Tax 
+Credit, for the New Markets provision that really matters, for the 
+EITC. And then they say, Well, we can't afford it, yet they won't close 
+the tax loopholes. It is so inconsistent.
+  I think in terms of the impact on human beings, it is not only 
+inadequate but it is impersonal.
+  So we come here fortified. We are determined to do the right thing 
+when it comes to tax reform. We are going to do the right thing when it 
+comes to other important issues, including fiscal responsibility. And 
+we are going to make sure that there are the funds available for needed 
+programs because we have paid for things.
+  I strongly urge a ``no'' vote. That really is standing up for the 
+right thing
+
+[[Page H1013]]
+
+when it comes to bipartisanship, to tax reform, and to fiscal 
+responsibility.
+  I yield back the balance of my time.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I yield myself the balance of my 
+time to close.
+  I guess I will just try to summarize this debate in a couple of ways. 
+What I am hearing is, to paraphrase: We like this policy. We think 
+there is a need. We just want to raise taxes.
+  Let me put it a different way. If there was a popular spending 
+measure that came here to the floor that extended the same policy from 
+last year to this year because it was expiring, I don't think we would 
+be hearing these concerns.
+  In fact, with Trade Adjustment Assistance, something that is very 
+popular among this committee and the Members on the other side of the 
+aisle, that is exactly what happened in December. The law expired. A 
+straight extension of the law, of spending, continued. It didn't cost 
+anything. Why? Because that is how the baseline treats spending.
+  I didn't hear all the hues and cries about deficits when we extended 
+the Trade Adjustment Assistance law, that spending program. So we hear 
+all of these cries about it.
+  Actually, let me take that back. We don't hear all these hues and 
+cries about the deficits when we extend these tax provisions for 2 
+years. We don't hear these concerns when we extend current law tax 
+provisions for 1 year. And we don't hear these concerns about deficits 
+when we retroactively extend it from last year, going forward. We only 
+hear these concerns when we are giving people the certainty.
+  So the real actual question before us is: Do we have to raise taxes 
+on other hardworking Americans just so that we can keep them where they 
+are for everybody else? Do we take money away from charities and people 
+giving donations or raise taxes on other hardworking Americans? Or, 
+just like Trade Adjustment Assistance was extended this last year, do 
+we treat these important provisions the same, which is: they are in the 
+Code; they have been in the Code; we want them in the Code; we agree 
+they should be in the Code--let's keep them in the Code. That is the 
+decision here.
+  So the newfound concern about deficits, I find, is really more of a 
+thinly veiled attempt to raise taxes. I think what this baseline 
+argument is really all about is: Do we just want to have a Tax Code 
+that raises more and more and more taxes? Do we want to put ourselves 
+in this position of just always raising taxes? Or do we want to give 
+taxpayers a break? We are not even saying give them a break. We are 
+saying, just don't raise their taxes; just keep them where they are.
+  So this isn't costing anything, in that we are not lowering someone's 
+taxes. We are just keeping their taxes where they are, and we are 
+preventing them from going up. So let's just make it really clear.
+  I guess the new definition of preventing tax increases from hitting 
+hardworking Americans is now a big tax cut. That is basically what we 
+are hearing here.
+  We don't buy that logic. We don't want to raise people's taxes. We 
+want to reform the Tax Code. And we want these kinds of provisions that 
+are very important, that we know will stay in the Tax Code even with 
+tax reform. We want people to know that they are there so they can plan 
+accordingly.
+  We are doing 179 tomorrow. We want farmers to be able to buy tractors 
+before December 11 in the year. We want people to make decisions to 
+donate food to charities. Maybe you are doing well in retirement and 
+you have got a little bit of money out of your Individual Retirement 
+Account and you would like to donate it to a charity, we think you 
+ought to be able to do that. We want foundations to be able to make 
+donations for the greater good in their communities. Those are the 
+things we are getting here and, more importantly, we are giving them 
+the certainty they need to make long-term plans so they can do more of 
+it. That is why we should pass this bill. That is why I think everybody 
+should vote for this bill. That is why I think Democrats and 
+Republicans should vote for this bill.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. CROWLEY. Mr. Speaker, I rise in opposition to this bill.
+  It's not because I don't support providing additional assistance to 
+benefit charities. I do.
+  It's because this bill is a trick to actually cut funding for groups 
+like food banks and homeless shelters in the long term.
+  The reason is, the cost of this bill is not paid for, meaning the 
+entire cost of these tax breaks will be added to the nation's deficit.
+  $14.2 billion will be added to the deficit.
+  This after President Obama has already slashed the deficit by \2/3\ 
+from the trillion dollar deficits he inherited from his predecessor 
+George Bush.
+  So what will be the result of these new larger deficits that my 
+Republican colleagues are creating today?
+  We all know.
+  Republicans will soon turn around and cry crocodile tears about the 
+budget and demand deeper cuts in spending.
+  And that means less Federal grants towards homeless veterans 
+shelters, food banks, senior centers and other organizations that help 
+people in need.
+  I ask, has the Republican austerity program benefitted charities so 
+far?
+  Have the budget cuts known as sequestration benefitted local 
+charities and nonprofits?
+  The answer is a resounding no.
+  It is the charities themselves who have said the painful budget cuts 
+forced on them have put charities in a situation where more than 50 
+percent of nonprofits report that they are unable to meet demand for 
+their services.
+  So why are our charities, our schools, our communities suffering 
+under the Republican majority?
+  Because my Republican colleagues claimed to be so concerned about 
+deficits--many of which were caused by the trillion dollar Bush tax 
+cuts that did nothing for our economy or to create jobs--that they have 
+demanded steep spending cuts without ever asking the wealthiest 
+American to pay more.
+  Yes, my Republican colleagues have used their so-called concerns 
+about the deficit to justify cutting spending to social programs that 
+serve children, seniors, and other vulnerable populations--shifting the 
+burden to already-stressed nonprofits. This is a vicious cycle that 
+needs to stop and it needs to stop today.
+  Funny thing is we could have stopped this process of adding to the 
+deficit, while still benefitting charities, if the Republicans simply 
+allowed a vote on a Democratic amendment to pay for the costs of these 
+tax cuts.
+  The Republicans refused to even allow a vote in Congress.
+  Republicans will argue that tax cuts pay for themselves.
+  But everyone who has been forced to live under the austerity program 
+over the past few years know otherwise.
+  Republicans argue there is wasteful spending that needs to be cut in 
+order to mandate new spending. Sometimes they are right.
+  But let's be clear there are wasteful tax programs out there that 
+should be repealed to pay for more beneficial tax cuts as well.
+  We can find common ground here.
+  Let's go back to the drawing board and pass these tax cuts, but in a 
+fiscally responsible manner.
+  So I reluctantly oppose this bill as it will just add to the deficit 
+and lead to more painful spending cuts for the charitable groups that 
+we are claiming to help today.
+  I urge a no vote on the underlying bill.
+  Mr. ZINKE. Mr. Speaker, I wish to highlight an important bill that is 
+being considered by the House today--the ``America Gives More Act of 
+2015 (H.R. 644).'' This legislation contains a package of four 
+charitable giving incentives: the IRA charitable rollover; the enhanced 
+deduction for donating food inventory; the simplification of the 
+Private Foundation Excise Tax; and the enhanced deduction for donating 
+conservation easements, the last of which is of critical importance to 
+Montana.
+  Since 2006, the enhanced tax incentive for qualified conservation 
+easement donations has opened the door to voluntary, landowner-led 
+conservation on millions of acres across the country. This provision 
+allows Montanans, particularly our ranchers and farmers, who donate the 
+development rights on their land to deduct a larger portion of their 
+income over more years. It is common sense that modest income donors 
+with highly valued lands should be allowed the same tax deductions they 
+would have been entitled to if their incomes were larger.
+  These donations are extraordinary in many ways. One of which is the 
+time they take and the money they cost the donor. Decisions to give 
+away what is often a family's most valuable asset routinely take more 
+than a year and require hiring an attorney and an appraiser at 
+considerable cost. Having this incentive expire after a year guarantees 
+that most of the people who would most benefit from it will never even 
+begin the process of considering it.
+  I support this bill, especially when it benefits constituents like 
+Dan Lilja. About 35 years ago he moved to rural western Montana after 
+graduating from the University of Montana. He married a local, Sally, 
+and started Lilja Precision Barrels in Plains, Montana, in 1985.
+
+[[Page H1014]]
+
+Dan's interest in bench shooting inspired him to design some of the 
+world's best rifle barrels. Lilja barrels are used in rifles by the 
+U.S. Army, the U.S. Army Rangers, Navy SEALs, Coast Guard, the FBI, the 
+Royal Canadian Mounted Police, and Canadian Special Forces, among 
+others. These customers demand the best and Lilja Precision Barrels 
+delivers a quality product.
+  Dan and Sally own property in Sanders County along the scenic Clark 
+Fork River. They entered into a conservation easement with the Montana 
+Land Reliance to protect this property from inappropriate subdivision 
+and to provide critical winter and spring habitat for elk and big horn 
+sheep.
+  In a way that is both patriotic and conservation-minded, Dan and 
+Sally have contributed to the health and preservation of western 
+wildlife habitats and the security of our country. This is just one of 
+the many stories of how conservation easements are preserving our rich 
+heritage, and I call upon the House to support this bill for the 
+betterment of not only Montana, but our country.
+  Mr. HONDA. Mr. Speaker, because I was traveling to attend the 
+President's cybersecurity summit in California, I was not present when 
+the House voted on H.R. 644, the Fighting Hunger Incentive Act of 2015.
+  While I support goals of the tax provisions in this bill and 
+recognize the value of extending them permanently, I am concerned that 
+H.R. 644 does not pay for them. I have long been a supporter of 
+improving and streamlining charitable donations to make it easier for 
+individuals to donate food, but this one-sided approach of passing 
+bills that offer tax reductions without increasing revenues is 
+unsustainable.
+  H.R. 644 will add $14.2 billion to the deficit over 10 years. By 
+bringing this and similar tax extender bills to the floor for votes, 
+Republicans continue to demonstrate that they are not serious about 
+deficit reduction. It is long past time for Congress to have a 
+reasonable and informed debate on comprehensive tax reform. These 
+piecemeal, unbalanced extender votes are not the way to approach real 
+tax reform.
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, I rise today to 
+speak about H.R. 644, the America Gives More Act.
+  The bill before us today contains provisions that I strongly support, 
+but it is with much frustration that I will vote against today's bill. 
+Rather than tackling comprehensive tax reform, House Republicans are 
+once again doing just the opposite. It seems like Congress has given up 
+on comprehensive tax reform only six weeks into the year. The American 
+people deserve better.
+  I feel like I'm starting to sound like a broken record on this, but 
+we need a tax code that is simple, fair, and provides certainty to all 
+taxpayers. Watching the Republicans cherry pick a few bills while 
+leaving countless other deserving, historically bipartisan bills in the 
+dust is not how to run this committee or this country.
+  I have been proud to support local food banks in Los Angeles for many 
+years. The work that they do is truly invaluable. Countless families in 
+my district, and across Los Angeles County, are able to put food on the 
+table and send their kids to school on a full stomach because of our 
+local food banks.
+  Yet year after year we let our local charities down by kicking the 
+can down the road, sometimes kicking the can backwards, when can only 
+muster retroactive policy. Our federal tax code is like a spider web. 
+If we tinker with one provision, others provisions are affected. That 
+is why we must tackle comprehensive tax reform to provide true 
+certainty to both tax payers and charities.
+  I strongly support the individual charitable provisions before us 
+today, but this is not how to run a country.
+  The SPEAKER pro tempore. All time for debate has expired.
+  Pursuant to House Resolution 101, the previous question is ordered on 
+the bill, as amended.
+  The question is on the engrossment and third reading of the bill.
+  The bill was ordered to be engrossed and read a third time, and was 
+read the third time.
+
+
+                           Motion to Recommit
+
+  Mr. NEAL. Mr. Speaker, I have a motion to recommit at the desk.
+  The SPEAKER pro tempore. Is the gentleman opposed to the bill?
+  Mr. NEAL. I am opposed to the bill in its current form, Mr. Speaker.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I reserve a point of order.
+  The SPEAKER pro tempore. A point of order is reserved.
+  The Clerk will report the motion to recommit.
+  The Clerk read as follows:
+
+       Mr. Neal moves to recommit the bill H.R. 644 to the 
+     Committee on Ways and Means with instructions to report the 
+     same back to the House forthwith with the following 
+     amendment:
+       Add at the end the following:
+
+     SEC. 7. NO INCREASE IN DEFICIT OR DELAY OF COMPREHENSIVE TAX 
+                   REFORM.
+
+        Nothing in this Act shall result in--
+       (1) an increase in the deficit, or
+       (2) a delay or weakening of efforts to adopt a permanent 
+     extension of the provisions of this Act, so long as it is 
+     accomplished in a fiscally responsible manner.
+
+     SEC. 8. SHORT-TERM EXTENSION WHILE COMPREHENSIVE TAX REFORM 
+                   IS UNDER CONSIDERATION.
+
+       Notwithstanding any other provision of this Act, any 
+     temporary provision of law the application of which is 
+     otherwise made permanent under this Act shall be hereby only 
+     extended for 1 year.
+
+     SEC. 9. TAX BENEFITS DISALLOWED IN CASE OF INVERTED 
+                   CORPORATIONS.
+
+       (a) In General.--In the case of a taxpayer which is, or is 
+     a member of an expanded affiliated group which includes, an 
+     applicable inverted corporation, the Internal Revenue Code of 
+     1986 shall be applied and administered as if the provisions 
+     of, and amendments made by, this Act (other than this 
+     section) had never been enacted.
+       (b) Applicable Inverted Corporations.--
+       (1) In general.--For purposes of this section, the term 
+     ``applicable inverted corporation'' means any foreign 
+     corporation which--
+       (A) would be a surrogate foreign corporation under 
+     subsection (a)(2) of section 7874 of the Internal Revenue 
+     Code of 1986 if such subsection were applied by substituting 
+     ``80 percent'' for ``60 percent'', or
+       (B) is an inverted domestic corporation.
+       (2) Inverted domestic corporation.--For purposes of this 
+     subsection, a foreign corporation shall be treated as an 
+     inverted domestic corporation if, pursuant to a plan (or a 
+     series of related transactions)--
+       (A) the entity completes after May 8, 2014, the direct or 
+     indirect acquisition of--
+       (i) substantially all of the properties held directly or 
+     indirectly by a domestic corporation, or
+       (ii) substantially all of the assets of, or substantially 
+     all of the properties constituting a trade or business of, a 
+     domestic partnership, and
+       (B) after the acquisition, either--
+       (i) more than 50 percent of the stock (by vote or value) of 
+     the entity is held--
+
+       (I) in the case of an acquisition with respect to a 
+     domestic corporation, by former shareholders of the domestic 
+     corporation by reason of holding stock in the domestic 
+     corporation, or
+       (II) in the case of an acquisition with respect to a 
+     domestic partnership, by former partners of the domestic 
+     partnership by reason of holding a capital or profits 
+     interest in the domestic partnership, or
+
+       (ii) the management and control of the expanded affiliated 
+     group which includes the entity occurs, directly or 
+     indirectly, primarily within the United States, and such 
+     expanded affiliated group has significant domestic business 
+     activities.
+       (3) Exception for corporations with substantial business 
+     activities in foreign country of organization.--A foreign 
+     corporation described in paragraph (2) shall not be treated 
+     as an inverted domestic corporation if after the acquisition 
+     the expanded affiliated group which includes the entity has 
+     substantial business activities in the foreign country in 
+     which or under the law of which the entity is created or 
+     organized when compared to the total business activities of 
+     such expanded affiliated group. For purposes of applying 
+     section 7874(a)(2)(B)(iii) of the Internal Revenue Code of 
+     1986 and the preceding sentence, the term ``substantial 
+     business activities'' shall have the meaning given such term 
+     under Treasury regulations in effect on May 8, 2014, except 
+     that the Secretary of the Treasury may issue regulations 
+     increasing the threshold percent in any of the tests under 
+     such regulations for determining if business activities 
+     constitute substantial business activities for purposes of 
+     this paragraph.
+       (4) Management and control.--For purposes of paragraph 
+     (2)(B)(ii)--
+       (A) In general.--The Secretary of the Treasury shall 
+     prescribe regulations for purposes of determining cases in 
+     which the management and control of an expanded affiliated 
+     group is to be treated as occurring, directly or indirectly, 
+     primarily within the United States. The regulations 
+     prescribed under the preceding sentence shall apply to 
+     periods after May 8, 2014.
+       (B) Executive officers and senior management.--Such 
+     regulations shall provide that the management and control of 
+     an expanded affiliated group shall be treated as occurring, 
+     directly or indirectly, primarily within the United States if 
+     substantially all of the executive officers and senior 
+     management of the expanded affiliated group who exercise day-
+     to-day responsibility for making decisions involving 
+     strategic, financial, and operational policies of the 
+     expanded affiliated group are based or primarily located 
+     within the United States. Individuals who in fact exercise 
+     such day-to-day responsibilities shall be treated as 
+     executive officers and senior management regardless of their 
+     title.
+       (5) Significant domestic business activities.--For purposes 
+     of paragraph (2)(B)(ii), an expanded affiliated group has 
+     significant domestic business activities if at least 25 
+     percent of--
+       (A) the employees of the group are based in the United 
+     States,
+       (B) the employee compensation incurred by the group is 
+     incurred with respect to employees based in the United 
+     States,
+
+[[Page H1015]]
+
+       (C) the assets of the group are located in the United 
+     States, or
+       (D) the income of the group is derived in the United 
+     States,
+
+     determined in the same manner as such determinations are made 
+     for purposes of determining substantial business activities 
+     under regulations referred to in paragraph (3) as in effect 
+     on May 8, 2014, but applied by treating all references in 
+     such regulations to ``foreign country'' and ``relevant 
+     foreign country'' as references to ``the United States''. The 
+     Secretary of the Treasury may issue regulations decreasing 
+     the threshold percent in any of the tests under such 
+     regulations for determining if business activities constitute 
+     significant domestic business activities for purposes of this 
+     paragraph.
+       (c) Definitions.--For purposes of this section, the terms 
+     ``domestic corporation'', ``foreign corporation'', and 
+     ``expanded affiliated group'' shall each have the same 
+     meaning as when used in section 7874 of the Internal Revenue 
+     Code of 1986.
+
+  Mr. RYAN of Wisconsin (during the reading). Mr. Speaker, I ask 
+unanimous consent to dispense with the reading.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Wisconsin?
+  There was no objection.
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Massachusetts is recognized for 5 minutes in support of his motion.
+  Mr. NEAL. Mr. Speaker, I am opposed to this bill in its current form.
+  I want to remind my colleagues that this amendment to the bill will 
+not kill the bill or send it back to committee if adopted. It will 
+simply allow us to proceed to final passage, as amended.
+  Mr. Speaker, the gentleman from Wisconsin, Chairman Ryan, spoke a few 
+moments ago about the notion of goodwill and confidence. But he used a 
+peculiar term as a substitute. He called it the ``baseline.''
+  What about a baseline of some goodwill and confidence building and a 
+measure that acknowledged that, in terms of procedure, this is a 
+violation of the confidence that we have all tried to establish as we 
+proceed to tax reform?
+  Some of us who have been around for a long time and have participated 
+in actual tax strategy, we would offer the following: the last time 
+that the Tax Code was changed in America, the Internet had not been 
+invented, Ronald Reagan was the President of the United States, and Tip 
+O'Neill was the Speaker of this House.
+  Now, in terms of procedure, why we object is the following: if you 
+recall, the gentleman from Michigan, Chairman Camp, waited until tax 
+reform last year was completely dead and then asked us to go through 
+the motion. And that, in the end, is exactly what it was, to have gone 
+through the motion of trying to pass some permanent extended tax bills.
+  Well, in New England 2 weeks ago, we were talking about deflated 
+footballs. Now we are talking about deflated tax reform expectations.
+  Six weeks into this Congress, and we are doing this procedural 
+instead of substantive achievement that might lead to some tax relief, 
+as the President has acknowledged, for American corporations or tax 
+relief for individual and family filers?
+
+                              {time}  1630
+
+  We are doing this with the argument that, somehow, Democrats don't 
+support charitable giving? Our objection today is based on the 
+following: Fiscally, this is reckless; procedurally, it violates the 
+notion of goodwill in the House; and lastly, and just as importantly, I 
+think it pushes apart the two parties from getting to tax reform.
+  Mr. Speaker, this is a positioning amendment: How might we embarrass 
+the minority? Do you know what? They are saying here, as they go 
+forward in this argument, that this keeps everything the way it is, it 
+extends charitable giving.
+  You have to borrow the money eventually to pay for this. That adds to 
+the deficits. Mr. Speaker, that is the argument that we are having here 
+today. We want to know how this is paid for. We are not objecting to 
+the thrust or mission of what is being offered. Under different 
+circumstances, these bills would pass without any problem with broad 
+support.
+  Mr. Speaker, I don't have any personal quarrel with the merits of 
+this policy, but when it is unpaid for, it means more borrowing. We all 
+support the work of public charities and private foundations in our 
+communities. We support the good works of charitable communities, and 
+we strive to provide these charities with the resources that they need 
+to carry out their mission.
+  Let me ask you this: Why would they try to masquerade this notion 
+that somebody from Massachusetts is against charitable giving?
+  Universities, hospitals, and foundations, they abound throughout my 
+State. Like the rest of our Caucus, I favor charitable giving and 
+object to the procedure in which this is being offered today. We object 
+to the procedure.
+  Why are we taking up this time debating these bills? We should be 
+coming together on tax reform, as promised, for middle class families 
+that grows the economy. If the goal of Mr. Ryan is to eventually remove 
+all deductions, preferences, and exclusions in the Code to get to a 
+lower rate, that should be stated, but not to do it this way.
+  We are debating bills that the administration has already said they 
+will veto and the Senate has given us no indication they will take them 
+up.
+  So to fix this moment, our motion to recommit offers the following: a 
+1-year bridge to tax reform. By the way, my predictions of this in 
+terms of the extenders have been far more accurate over the years than 
+their proposals on the extenders.
+  We are suggesting here a proposal that does not add to the deficit 
+and addresses the longstanding problem of corporate inversions. By the 
+way, why are companies inverting? Because of the tax system in America.
+  We are suggesting today that there is a difference and a distinction 
+to be drawn between tax evasion and tax avoidance. They are avoiding 
+taxes in some cases and evading them in the others.
+  We have an opportunity to do something about this Tax Code that would 
+help bring that about. We pay for our provision. It gives, I think, a 
+measure of comfort for the Democratic minority today to vote for this 
+motion to recommit, and I urge Republican support for this provision.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. RYAN of Wisconsin. I withdraw my reservation of a point of order.
+  The SPEAKER pro tempore. The reservation of the point of order is 
+withdrawn.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I claim the time in opposition to 
+the gentleman's motion.
+  The SPEAKER pro tempore. The gentleman is recognized for 5 minutes.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I will be very brief. My friend 
+got a little animated.
+  Mr. Speaker, there was a lot there. I will just say this. Here is the 
+question before us: Do we want to give businesses and charities 
+certainty or not? If we would pass this motion to recommit and it went 
+into law, then we will be right back here at the end of the year with 
+the same old problem. We will be right back here. We will be right back 
+here in the same old problem.
+  They are saying, Let's just do 1 year. Let's just say it takes a few 
+months to pass through the Senate and all of this, then we are back 
+here at the end of the year saying, Oh, my gosh, all these charities 
+are going to be in jeopardy in January.
+  Let's get off this merry-go-round, Mr. Speaker. It is ridiculous. We 
+all know this is good policy. We all know this is the right thing to 
+do, and we all know that businesses and charities need the kind of 
+certainty that we are providing, and most of us believe that not 
+raising taxes is not the same as cutting taxes.
+  With that, Mr. Speaker, I urge a ``no'' vote, and I yield back the 
+balance of my time.
+  The SPEAKER pro tempore. Without objection, the previous question is 
+ordered on the motion to recommit.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the motion to recommit.
+  The question was taken; and the Speaker pro tempore announced that 
+the noes appeared to have it.
+  Mr. NEAL. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 9 of rule XX, the Chair 
+will reduce to 5 minutes the minimum
+
+[[Page H1016]]
+
+time for any electronic vote on the question of passage of the bill.
+  The vote was taken by electronic device, and there were--yeas 168, 
+nays 245, not voting 19, as follows:
+
+                             [Roll No. 79]
+
+                               YEAS--168
+
+     Adams
+     Aguilar
+     Ashford
+     Bass
+     Beatty
+     Bera
+     Beyer
+     Bishop (GA)
+     Blumenauer
+     Bonamici
+     Boyle (PA)
+     Brady (PA)
+     Brown (FL)
+     Brownley (CA)
+     Bustos
+     Butterfield
+     Capps
+     Capuano
+     Cardenas
+     Carney
+     Carson (IN)
+     Castor (FL)
+     Castro (TX)
+     Chu (CA)
+     Cicilline
+     Clark (MA)
+     Clarke (NY)
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Connolly
+     Conyers
+     Cooper
+     Costa
+     Courtney
+     Crowley
+     Cuellar
+     Cummings
+     Davis (CA)
+     Davis, Danny
+     DeFazio
+     DeGette
+     Delaney
+     DelBene
+     DeSaulnier
+     Deutch
+     Dingell
+     Doyle (PA)
+     Edwards
+     Ellison
+     Engel
+     Esty
+     Farr
+     Fattah
+     Foster
+     Frankel (FL)
+     Fudge
+     Gabbard
+     Gallego
+     Garamendi
+     Graham
+     Grayson
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hahn
+     Hastings
+     Heck (WA)
+     Higgins
+     Himes
+     Hoyer
+     Huffman
+     Israel
+     Jackson Lee
+     Jeffries
+     Johnson (GA)
+     Johnson, E. B.
+     Keating
+     Kelly (IL)
+     Kennedy
+     Kildee
+     Kilmer
+     Kind
+     Kirkpatrick
+     Kuster
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Lawrence
+     Levin
+     Lewis
+     Lieu (CA)
+     Lipinski
+     Loebsack
+     Lowenthal
+     Lowey
+     Lujan Grisham (NM)
+     Lujan, Ben Ray (NM)
+     Lynch
+     Maloney, Carolyn
+     Maloney, Sean
+     Matsui
+     McCollum
+     McDermott
+     McGovern
+     McNerney
+     Meeks
+     Meng
+     Moore
+     Moulton
+     Nadler
+     Napolitano
+     Neal
+     Nolan
+     Norcross
+     Pallone
+     Pascrell
+     Payne
+     Pelosi
+     Perlmutter
+     Peters
+     Peterson
+     Pingree
+     Pocan
+     Polis
+     Quigley
+     Rangel
+     Rice (NY)
+     Richmond
+     Roybal-Allard
+     Ruppersberger
+     Ryan (OH)
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schrader
+     Scott (VA)
+     Scott, David
+     Serrano
+     Sewell (AL)
+     Sherman
+     Sinema
+     Sires
+     Slaughter
+     Smith (WA)
+     Takai
+     Takano
+     Thompson (MS)
+     Titus
+     Tonko
+     Torres
+     Tsongas
+     Van Hollen
+     Vargas
+     Vela
+     Velazquez
+     Visclosky
+     Walz
+     Wasserman Schultz
+     Waters, Maxine
+     Watson Coleman
+     Welch
+     Wilson (FL)
+     Yarmuth
+
+                               NAYS--245
+
+     Abraham
+     Aderholt
+     Allen
+     Amash
+     Amodei
+     Babin
+     Barletta
+     Barr
+     Barton
+     Becerra
+     Benishek
+     Bilirakis
+     Bishop (MI)
+     Bishop (UT)
+     Black
+     Blackburn
+     Blum
+     Bost
+     Boustany
+     Brady (TX)
+     Brat
+     Bridenstine
+     Brooks (AL)
+     Brooks (IN)
+     Buchanan
+     Buck
+     Bucshon
+     Burgess
+     Byrne
+     Calvert
+     Carter (GA)
+     Carter (TX)
+     Chabot
+     Chaffetz
+     Clawson (FL)
+     Coffman
+     Cole
+     Collins (GA)
+     Collins (NY)
+     Comstock
+     Conaway
+     Cook
+     Costello (PA)
+     Cramer
+     Crawford
+     Crenshaw
+     Culberson
+     Curbelo (FL)
+     Davis, Rodney
+     Denham
+     Dent
+     DeSantis
+     DesJarlais
+     Diaz-Balart
+     Doggett
+     Dold
+     Duffy
+     Duncan (SC)
+     Duncan (TN)
+     Ellmers
+     Emmer
+     Farenthold
+     Fincher
+     Fitzpatrick
+     Fleischmann
+     Fleming
+     Flores
+     Forbes
+     Fortenberry
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Garrett
+     Gibbs
+     Gibson
+     Gohmert
+     Goodlatte
+     Gosar
+     Gowdy
+     Granger
+     Graves (GA)
+     Graves (LA)
+     Graves (MO)
+     Griffith
+     Grothman
+     Guinta
+     Guthrie
+     Hanna
+     Hardy
+     Harper
+     Harris
+     Hartzler
+     Heck (NV)
+     Hensarling
+     Herrera Beutler
+     Hice (GA)
+     Hill
+     Holding
+     Hudson
+     Huelskamp
+     Huizenga (MI)
+     Hultgren
+     Hunter
+     Hurd (TX)
+     Hurt (VA)
+     Issa
+     Jenkins (KS)
+     Jenkins (WV)
+     Johnson (OH)
+     Johnson, Sam
+     Jolly
+     Jones
+     Jordan
+     Joyce
+     Katko
+     Kelly (PA)
+     King (IA)
+     King (NY)
+     Kinzinger (IL)
+     Kline
+     Knight
+     Labrador
+     LaMalfa
+     Lamborn
+     Lance
+     Latta
+     LoBiondo
+     Long
+     Loudermilk
+     Love
+     Lucas
+     Luetkemeyer
+     Lummis
+     MacArthur
+     Marchant
+     Marino
+     Massie
+     McCarthy
+     McCaul
+     McClintock
+     McHenry
+     McKinley
+     McMorris Rodgers
+     McSally
+     Meadows
+     Meehan
+     Messer
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Moolenaar
+     Mooney (WV)
+     Mullin
+     Murphy (PA)
+     Neugebauer
+     Newhouse
+     Noem
+     Nugent
+     Nunes
+     O'Rourke
+     Olson
+     Palazzo
+     Palmer
+     Paulsen
+     Perry
+     Pittenger
+     Pitts
+     Poe (TX)
+     Poliquin
+     Pompeo
+     Posey
+     Price (GA)
+     Ratcliffe
+     Reed
+     Reichert
+     Renacci
+     Ribble
+     Rice (SC)
+     Rigell
+     Roby
+     Rogers (AL)
+     Rogers (KY)
+     Rohrabacher
+     Rokita
+     Rooney (FL)
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothfus
+     Rouzer
+     Royce
+     Russell
+     Ryan (WI)
+     Salmon
+     Sanford
+     Scalise
+     Schock
+     Schweikert
+     Scott, Austin
+     Sensenbrenner
+     Sessions
+     Shimkus
+     Shuster
+     Simpson
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Stefanik
+     Stewart
+     Stivers
+     Stutzman
+     Thompson (CA)
+     Thompson (PA)
+     Thornberry
+     Tiberi
+     Tipton
+     Trott
+     Turner
+     Upton
+     Valadao
+     Wagner
+     Walberg
+     Walden
+     Walker
+     Walorski
+     Walters, Mimi
+     Weber (TX)
+     Webster (FL)
+     Wenstrup
+     Westerman
+     Westmoreland
+     Whitfield
+     Williams
+     Wilson (SC)
+     Wittman
+     Womack
+     Woodall
+     Yoder
+     Yoho
+     Young (AK)
+     Young (IA)
+     Young (IN)
+     Zeldin
+     Zinke
+
+                             NOT VOTING--19
+
+     Cartwright
+     DeLauro
+     Duckworth
+     Eshoo
+     Hinojosa
+     Honda
+     Kaptur
+     Lee
+     Lofgren
+     Mulvaney
+     Murphy (FL)
+     Pearce
+     Price (NC)
+     Roe (TN)
+     Ruiz
+     Rush
+     Speier
+     Swalwell (CA)
+     Veasey
+
+                              {time}  1659
+
+  Messrs. LOUDERMILK, WESTERMAN, LATTA, GRIFFITH, BILIRAKIS, and AMODEI 
+changed their vote from ``yea'' to ``nay.''
+  Mr. COHEN and Ms. LORETTA SANCHEZ of California changed their vote 
+from ``nay'' to ``yea.''
+  So the motion to recommit was rejected.
+  The result of the vote was announced as above recorded.
+  The SPEAKER pro tempore. The question is on the passage of the bill.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. LEVIN. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. This is a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 279, 
+nays 137, not voting 16, as follows:
+
+                             [Roll No. 80]
+
+                               YEAS--279
+
+     Abraham
+     Aderholt
+     Aguilar
+     Allen
+     Amash
+     Amodei
+     Ashford
+     Babin
+     Barletta
+     Barr
+     Barton
+     Benishek
+     Bera
+     Bilirakis
+     Bishop (GA)
+     Bishop (MI)
+     Bishop (UT)
+     Black
+     Blackburn
+     Blum
+     Bost
+     Boustany
+     Boyle (PA)
+     Brady (TX)
+     Brat
+     Bridenstine
+     Brooks (AL)
+     Brooks (IN)
+     Brownley (CA)
+     Buchanan
+     Buck
+     Bucshon
+     Burgess
+     Bustos
+     Byrne
+     Calvert
+     Capps
+     Carter (GA)
+     Carter (TX)
+     Castro (TX)
+     Chabot
+     Chaffetz
+     Clawson (FL)
+     Coffman
+     Cole
+     Collins (GA)
+     Collins (NY)
+     Comstock
+     Conaway
+     Cook
+     Costello (PA)
+     Cramer
+     Crawford
+     Crenshaw
+     Cuellar
+     Culberson
+     Curbelo (FL)
+     Davis, Rodney
+     Delaney
+     DelBene
+     Denham
+     Dent
+     DeSantis
+     DesJarlais
+     Deutch
+     Diaz-Balart
+     Dold
+     Duffy
+     Duncan (SC)
+     Duncan (TN)
+     Ellmers
+     Emmer
+     Esty
+     Farenthold
+     Fincher
+     Fitzpatrick
+     Fleischmann
+     Fleming
+     Flores
+     Forbes
+     Fortenberry
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Garamendi
+     Garrett
+     Gibbs
+     Gibson
+     Gohmert
+     Goodlatte
+     Gosar
+     Gowdy
+     Graham
+     Granger
+     Graves (GA)
+     Graves (LA)
+     Graves (MO)
+     Grayson
+     Griffith
+     Grothman
+     Guinta
+     Guthrie
+     Hahn
+     Hanna
+     Hardy
+     Harper
+     Harris
+     Hartzler
+     Heck (NV)
+     Heck (WA)
+     Hensarling
+     Herrera Beutler
+     Hice (GA)
+     Hill
+     Holding
+     Hudson
+     Huelskamp
+     Huizenga (MI)
+     Hultgren
+     Hunter
+     Hurd (TX)
+     Hurt (VA)
+     Issa
+     Jenkins (KS)
+     Jenkins (WV)
+     Johnson (OH)
+     Johnson, Sam
+     Jolly
+     Jordan
+     Joyce
+     Katko
+     Keating
+     Kelly (PA)
+     Kilmer
+     King (IA)
+     King (NY)
+     Kinzinger (IL)
+     Kirkpatrick
+     Kline
+     Knight
+     Kuster
+     Labrador
+     LaMalfa
+     Lamborn
+     Lance
+     Latta
+     Lipinski
+     LoBiondo
+     Loebsack
+     Long
+     Loudermilk
+     Love
+     Lucas
+     Luetkemeyer
+     Lummis
+     MacArthur
+     Maloney, Sean
+     Marchant
+     Marino
+     Massie
+     McCarthy
+     McCaul
+     McClintock
+     McHenry
+     McKinley
+     McMorris Rodgers
+     McSally
+     Meadows
+     Meehan
+     Messer
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Moolenaar
+     Mooney (WV)
+     Mullin
+     Murphy (FL)
+     Murphy (PA)
+     Neugebauer
+     Newhouse
+     Noem
+     Nolan
+     Nugent
+     Nunes
+     Olson
+     Palazzo
+     Palmer
+     Paulsen
+     Perlmutter
+     Perry
+     Peters
+     Peterson
+     Pittenger
+     Pitts
+     Poe (TX)
+     Poliquin
+     Pompeo
+     Posey
+     Price (GA)
+     Quigley
+     Ratcliffe
+     Reed
+     Reichert
+     Renacci
+     Ribble
+     Rice (NY)
+     Rice (SC)
+     Rigell
+     Roby
+     Rogers (AL)
+     Rogers (KY)
+     Rohrabacher
+     Rokita
+     Rooney (FL)
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothfus
+     Rouzer
+     Royce
+     Ruppersberger
+     Russell
+     Ryan (WI)
+     Salmon
+     Sanford
+     Scalise
+     Schock
+     Schweikert
+     Scott, Austin
+     Sensenbrenner
+     Sessions
+     Shimkus
+     Shuster
+     Simpson
+     Sinema
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Stefanik
+     Stewart
+     Stivers
+     Stutzman
+     Thompson (PA)
+     Thornberry
+     Tiberi
+     Tipton
+     Titus
+     Trott
+     Turner
+     Upton
+     Valadao
+     Vargas
+     Vela
+     Wagner
+     Walberg
+     Walden
+     Walker
+     Walorski
+     Walters, Mimi
+     Walz
+     Weber (TX)
+     Webster (FL)
+     Wenstrup
+     Westerman
+     Westmoreland
+     Whitfield
+     Williams
+     Wilson (SC)
+     Wittman
+     Womack
+     Woodall
+     Yoder
+     Yoho
+     Young (AK)
+     Young (IA)
+     Young (IN)
+     Zeldin
+     Zinke
+
+[[Page H1017]]
+
+
+
+                               NAYS--137
+
+     Adams
+     Bass
+     Beatty
+     Becerra
+     Beyer
+     Blumenauer
+     Bonamici
+     Brady (PA)
+     Brown (FL)
+     Butterfield
+     Capuano
+     Cardenas
+     Carney
+     Carson (IN)
+     Castor (FL)
+     Chu (CA)
+     Cicilline
+     Clark (MA)
+     Clarke (NY)
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Connolly
+     Conyers
+     Cooper
+     Costa
+     Courtney
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis, Danny
+     DeFazio
+     DeGette
+     DeSaulnier
+     Dingell
+     Doggett
+     Doyle (PA)
+     Edwards
+     Ellison
+     Engel
+     Farr
+     Fattah
+     Foster
+     Frankel (FL)
+     Fudge
+     Gabbard
+     Gallego
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hastings
+     Higgins
+     Himes
+     Hoyer
+     Huffman
+     Israel
+     Jackson Lee
+     Jeffries
+     Johnson (GA)
+     Johnson, E. B.
+     Jones
+     Kelly (IL)
+     Kennedy
+     Kildee
+     Kind
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Lawrence
+     Levin
+     Lewis
+     Lieu (CA)
+     Lowenthal
+     Lowey
+     Lujan Grisham (NM)
+     Lujan, Ben Ray (NM)
+     Lynch
+     Maloney, Carolyn
+     Matsui
+     McCollum
+     McDermott
+     McGovern
+     McNerney
+     Meeks
+     Meng
+     Moore
+     Moulton
+     Nadler
+     Napolitano
+     Neal
+     Norcross
+     O'Rourke
+     Pallone
+     Pascrell
+     Payne
+     Pelosi
+     Pingree
+     Pocan
+     Polis
+     Rangel
+     Richmond
+     Roybal-Allard
+     Rush
+     Ryan (OH)
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schrader
+     Scott (VA)
+     Scott, David
+     Serrano
+     Sewell (AL)
+     Sherman
+     Sires
+     Slaughter
+     Smith (WA)
+     Takai
+     Takano
+     Thompson (CA)
+     Thompson (MS)
+     Tonko
+     Torres
+     Tsongas
+     Van Hollen
+     Veasey
+     Velazquez
+     Visclosky
+     Wasserman Schultz
+     Waters, Maxine
+     Watson Coleman
+     Welch
+     Wilson (FL)
+     Yarmuth
+
+                             NOT VOTING--16
+
+     Cartwright
+     DeLauro
+     Duckworth
+     Eshoo
+     Hinojosa
+     Honda
+     Kaptur
+     Lee
+     Lofgren
+     Mulvaney
+     Pearce
+     Price (NC)
+     Roe (TN)
+     Ruiz
+     Speier
+     Swalwell (CA)
+
+                              {time}  1707
+
+  Mr. CARSON of Indiana changed his vote from ``yea'' to ``nay.''
+  Mr. GARAMENDI changed his vote from ``nay'' to ``yea.''
+  So the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+
+
+
